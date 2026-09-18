@@ -1,0 +1,501 @@
+Created Time,Intake Source,Gender,Location,Symptom Category,Red Flag Symptoms,Urgency Level,Triaged Status,Escalation Required,Team,Current Status,Follow up required,Last contacted,Escalation level,Resolution status,Case closed date,Case complexity,Source Sheet,Age Band,Response Minutes
+2024-10-31 23:30:00,WhatsApp,Male,Gaza,GI,Dehydration,Medium,Reviewed,No,Volunteer,Follow-Up,Yes,2024-11-09,None,Improved,,Low,Telemedicine,41-64,12.0
+2026-03-04 16:02:00,WhatsApp,Male,Syria,Trauma,Fever,High,Pending,Yes,General,Active,No,2026-03-06,Level 2,Lost To Follow-Up,,High,Telemedicine,18-40,37.0
+2026-01-15 18:53:00,WhatsApp,Male,Syria,Mental Health,None,Medium,Reviewed,No,General,Closed,No,2026-01-31,None,Improved,2026-02-09,Low,Telemedicine,0-17,37.0
+2025-05-20 05:56:00,WhatsApp,Male,Gaza,GI,Dehydration,Low,Completed,No,Specialists,Follow-Up,Yes,2025-06-06,None,Referred,,Medium,Telemedicine,41-64,75.0
+2025-10-31 08:49:00,WhatsApp,Female,Gaza,GI,Dehydration,Medium,Reviewed,No,Specialists,Follow-Up,Yes,,None,Resolved,,High,Telemedicine,0-17,12.0
+2024-03-29 20:32:00,Slack,Female,Gaza,GU,Flank pain,Medium,Pending,No,General,Closed,Yes,2024-04-10,None,Lost To Follow-Up,2024-03-31,Low,Telemedicine,65+,180.0
+2024-12-21 20:03:00,Manual,Female,Lebanon,Respiratory,Shortness of breath,Low,Reviewed,No,Volunteer,Active,Yes,2025-01-01,None,Resolved,,Medium,Telemedicine,0-17,12.0
+2024-02-23 19:43:00,WhatsApp,Female,Lebanon,GU,Flank pain,Medium,Reviewed,No,General,Closed,Yes,2024-03-03,None,Lost To Follow-Up,2024-03-12,High,Telemedicine,0-17,540.0
+2026-02-25 18:48:00,WhatsApp,Male,Gaza,ENT,None,Medium,Reviewed,No,General,Closed,No,2026-03-01,None,Ongoing,2026-03-24,Medium,Telemedicine,65+,540.0
+2026-04-06 11:18:00,WhatsApp,Male,Lebanon,GI,Dehydration,Medium,Completed,No,General,Closed,No,2026-04-23,None,Resolved,2026-04-16,High,Telemedicine,18-40,12.0
+2025-12-28 13:24:00,Slack,Male,Syria,Cardiovascular,BP >180/110,High,Completed,Yes,General,Closed,No,2026-01-05,Level 1,Lost To Follow-Up,2026-01-21,Low,Telemedicine,18-40,4.0
+2024-07-24 06:28:00,WhatsApp,Female,Gaza,GI,Dehydration,High,Reviewed,Yes,Volunteer,Follow-Up,No,2024-07-27,Level 3,Ongoing,,High,Telemedicine,41-64,4.0
+2024-10-09 14:37:00,WhatsApp,Female,Gaza,Cardiovascular,BP >180/110,Medium,Reviewed,No,General,Active,Yes,2024-10-28,None,Lost To Follow-Up,,Low,Telemedicine,18-40,180.0
+2024-07-16 17:44:00,WhatsApp,Male,Lebanon,Respiratory,None,High,Pending,Yes,Specialists,Follow-Up,No,2024-07-30,Level 3,Lost To Follow-Up,,Medium,Telemedicine,65+,37.0
+2025-11-15 14:08:00,Manual,Female,Gaza,GU,Flank pain,Low,Completed,No,Volunteer,Active,Yes,2025-12-04,None,Referred,,High,Telemedicine,41-64,180.0
+2025-09-12 21:01:00,WhatsApp,Male,Lebanon,Mental Health,None,Low,Completed,No,General,Closed,Yes,2025-09-20,None,Lost To Follow-Up,2025-10-04,Medium,Telemedicine,0-17,540.0
+2026-01-27 13:37:00,WhatsApp,Male,Gaza,Obstetrics,Reduced fetal movement,High,Completed,Yes,Specialists,Intake,No,2026-02-01,Level 3,Resolved,,Medium,Telemedicine,18-40,180.0
+2024-10-21 09:03:00,WhatsApp,Male,Gaza,ENT,None,High,Pending,Yes,Volunteer,Follow-Up,No,2024-11-07,Level 3,Improved,,Medium,Telemedicine,18-40,180.0
+2026-07-26 04:34:00,WhatsApp,Male,Gaza,Trauma,Fever,High,Reviewed,Yes,General,Active,Yes,2026-08-03,Level 1,Ongoing,,Medium,Telemedicine,18-40,180.0
+2025-05-26 17:01:00,WhatsApp,Male,Gaza,Respiratory,None,High,Pending,Yes,Volunteer,Follow-Up,Yes,2025-06-02,Level 1,Referred,,Medium,Telemedicine,65+,540.0
+2025-07-09 19:07:00,WhatsApp,Female,Gaza,Mental Health,None,Low,Completed,No,General,Active,Yes,,None,Improved,,Low,Telemedicine,0-17,37.0
+2024-05-23 05:28:00,WhatsApp,Male,Syria,Cardiovascular,BP >180/110,Medium,Reviewed,No,Specialists,Closed,No,2024-06-10,None,Ongoing,2024-05-26,High,Telemedicine,18-40,180.0
+2024-03-23 11:15:00,WhatsApp,Male,Gaza,Obstetrics,Reduced fetal movement,Critical,Pending,Yes,Specialists,Follow-Up,Yes,2024-03-27,Level 1,Resolved,,High,Telemedicine,65+,12.0
+2024-08-10 18:43:00,WhatsApp,Male,Gaza,Cardiovascular,BP >180/110,Medium,Pending,No,Specialists,Closed,Yes,2024-08-13,None,Referred,2024-09-14,Low,Telemedicine,18-40,540.0
+2025-05-25 08:33:00,WhatsApp,Male,Gaza,Mental Health,None,Medium,Pending,No,General,Closed,Yes,2025-06-13,None,Referred,2025-06-27,Medium,Telemedicine,41-64,37.0
+2024-12-01 15:01:00,Slack,Male,Lebanon,Cardiovascular,BP >180/110,High,Reviewed,Yes,Specialists,Closed,No,2024-12-04,Level 2,Resolved,2024-12-12,High,Telemedicine,18-40,4.0
+2024-03-03 21:00:00,Slack,Female,Gaza,Trauma,Fever,High,Pending,Yes,General,Closed,Yes,2024-03-12,Level 3,Referred,2024-03-30,Low,Telemedicine,41-64,540.0
+2024-12-05 11:11:00,WhatsApp,Male,Syria,ENT,None,Medium,Completed,No,Volunteer,Active,No,2024-12-25,None,Improved,,High,Telemedicine,0-17,37.0
+2025-01-14 17:35:00,Manual,Male,Lebanon,Respiratory,Shortness of breath,Medium,Completed,No,Specialists,Active,Yes,2025-01-26,None,Ongoing,,Low,Telemedicine,18-40,180.0
+2026-01-25 19:53:00,WhatsApp,Male,Gaza,Obstetrics,Reduced fetal movement,Medium,Pending,No,Specialists,Active,No,2026-01-27,None,Resolved,,Low,Telemedicine,41-64,4.0
+2024-01-25 13:01:00,WhatsApp,Female,Gaza,Trauma,Fever,Medium,Reviewed,No,General,Follow-Up,No,2024-02-14,None,Ongoing,,High,Telemedicine,0-17,540.0
+2024-09-14 18:37:00,WhatsApp,Male,Syria,GU,Flank pain,Low,Completed,No,General,Follow-Up,Yes,2024-09-23,None,Lost To Follow-Up,,Medium,Telemedicine,18-40,37.0
+2025-11-03 01:06:00,WhatsApp,Male,Lebanon,Dermatology,None,Critical,Pending,Yes,Volunteer,Active,No,2025-11-19,Level 3,Referred,,High,Telemedicine,65+,75.0
+2024-08-14 15:42:00,WhatsApp,Male,Gaza,Cardiovascular,BP >180/110,High,Completed,Yes,Specialists,Follow-Up,Yes,2024-09-03,Level 3,Improved,,High,Telemedicine,18-40,4.0
+2025-03-30 13:31:00,WhatsApp,Female,Gaza,Cardiovascular,BP >180/110,Medium,Pending,No,Specialists,Closed,Yes,2025-04-05,None,Referred,2025-04-11,High,Telemedicine,18-40,180.0
+2026-05-20 02:33:00,WhatsApp,Male,Syria,Cardiovascular,BP >180/110,High,Reviewed,Yes,Volunteer,Closed,Yes,2026-05-25,Level 1,Referred,2026-06-27,High,Telemedicine,41-64,12.0
+2025-07-25 05:09:00,WhatsApp,Male,Gaza,GU,Flank pain,Low,Pending,No,General,Active,Yes,2025-07-27,None,Ongoing,,High,Telemedicine,0-17,4.0
+2025-11-18 14:40:00,Manual,Male,Gaza,Cardiovascular,BP >180/110,Medium,Completed,No,General,Closed,Yes,2025-11-24,None,Lost To Follow-Up,2025-12-27,Medium,Telemedicine,41-64,540.0
+2026-02-04 21:21:00,WhatsApp,Female,Gaza,Cardiovascular,BP >180/110,Medium,Pending,No,General,Follow-Up,No,,None,Resolved,,Medium,Telemedicine,41-64,12.0
+2024-08-08 15:33:00,WhatsApp,Male,Lebanon,ENT,None,Medium,Reviewed,No,General,Follow-Up,Yes,2024-08-22,None,Referred,,High,Telemedicine,41-64,75.0
+2024-09-28 08:41:00,Manual,Female,Gaza,Dermatology,None,High,Completed,Yes,General,Follow-Up,Yes,2024-10-18,Level 3,Referred,,High,Telemedicine,65+,4.0
+2026-01-05 02:05:00,WhatsApp,Female,Gaza,Dermatology,None,High,Completed,No,Specialists,Follow-Up,Yes,2026-01-25,None,Referred,,Low,Telemedicine,65+,12.0
+2024-05-26 07:28:00,Manual,Female,Gaza,ENT,None,Low,Completed,No,General,Active,No,2024-05-27,None,Lost To Follow-Up,,Low,Telemedicine,18-40,37.0
+2024-11-27 03:19:00,WhatsApp,Male,Gaza,GI,Dehydration,Medium,Completed,No,General,Closed,Yes,2024-12-05,None,Ongoing,2025-01-06,High,Telemedicine,65+,12.0
+2025-01-29 16:21:00,WhatsApp,Male,Gaza,GI,Dehydration,Medium,Completed,No,General,Closed,Yes,2025-02-17,None,Lost To Follow-Up,2025-03-09,High,Telemedicine,41-64,4.0
+2025-03-08 07:15:00,WhatsApp,Female,Gaza,GU,Flank pain,Critical,Completed,No,General,Closed,No,2025-03-28,None,Resolved,2025-04-16,Medium,Telemedicine,41-64,12.0
+2025-11-01 11:22:00,WhatsApp,Female,Gaza,Cardiovascular,BP >180/110,High,Pending,Yes,General,Closed,No,2025-11-14,Level 1,Lost To Follow-Up,2025-12-09,High,Telemedicine,65+,12.0
+2025-07-12 14:52:00,WhatsApp,Male,Gaza,Mental Health,None,High,Completed,Yes,General,Active,No,2025-07-28,Level 2,Resolved,,High,Telemedicine,0-17,12.0
+2026-04-17 23:10:00,WhatsApp,Male,Gaza,Cardiovascular,BP >180/110,Low,Reviewed,No,Specialists,Active,Yes,2026-04-22,None,Improved,,Medium,Telemedicine,65+,180.0
+2025-03-01 03:00:00,Manual,Male,Gaza,GI,Dehydration,High,Completed,Yes,Volunteer,Closed,No,2025-03-17,Level 1,Referred,2025-04-01,Medium,Telemedicine,65+,4.0
+2025-05-10 17:28:00,Manual,Male,Gaza,Obstetrics,Reduced fetal movement,Medium,Reviewed,No,Volunteer,Closed,No,2025-05-25,None,Resolved,2025-05-11,Medium,Telemedicine,0-17,37.0
+2024-02-04 23:16:00,WhatsApp,Female,Gaza,Dermatology,None,Critical,Completed,Yes,Specialists,Follow-Up,Yes,2024-02-06,Level 1,Lost To Follow-Up,,Medium,Telemedicine,18-40,12.0
+2026-01-12 12:18:00,WhatsApp,Male,Gaza,Dermatology,None,Low,Completed,No,General,Follow-Up,Yes,2026-01-29,None,Ongoing,,Medium,Telemedicine,41-64,12.0
+2024-05-07 05:16:00,WhatsApp,Male,Gaza,Obstetrics,Reduced fetal movement,Medium,Completed,No,General,Closed,Yes,2024-05-21,None,Resolved,2024-05-10,High,Telemedicine,41-64,180.0
+2024-09-20 21:35:00,Slack,Male,Gaza,Respiratory,None,Medium,Pending,No,General,Follow-Up,Yes,2024-09-27,None,Ongoing,,High,Telemedicine,0-17,12.0
+2026-01-11 02:59:00,WhatsApp,Female,Lebanon,Obstetrics,Reduced fetal movement,Medium,Pending,No,Specialists,Intake,No,2026-01-13,None,Resolved,,Medium,Telemedicine,65+,37.0
+2024-04-10 06:10:00,WhatsApp,Male,Gaza,Trauma,Fever,Medium,Completed,No,Specialists,Closed,No,2024-04-27,None,Ongoing,2024-04-19,Low,Telemedicine,41-64,12.0
+2025-03-26 09:08:00,Slack,Female,Gaza,ENT,None,Critical,Reviewed,Yes,General,Follow-Up,Yes,,Level 2,Ongoing,,High,Telemedicine,41-64,4.0
+2024-01-12 19:27:00,WhatsApp,Female,Lebanon,ENT,None,Medium,Reviewed,No,Specialists,Closed,Yes,2024-01-13,None,Referred,2024-02-14,Medium,Telemedicine,41-64,75.0
+2025-09-19 01:19:00,WhatsApp,Female,Gaza,Trauma,Fever,Medium,Pending,No,General,Closed,No,2025-10-03,None,Lost To Follow-Up,2025-10-28,Medium,Telemedicine,18-40,37.0
+2026-05-04 14:51:00,WhatsApp,Male,Gaza,Cardiovascular,BP >180/110,High,Pending,Yes,General,Closed,No,2026-05-06,Level 3,Ongoing,2026-05-28,High,Telemedicine,41-64,12.0
+2025-10-27 03:15:00,WhatsApp,Male,Gaza,Dermatology,None,Medium,Reviewed,No,Specialists,Active,Yes,2025-11-05,None,Ongoing,,Medium,Telemedicine,65+,4.0
+2024-04-08 00:10:00,WhatsApp,Male,Gaza,Respiratory,Shortness of breath,Low,Reviewed,No,General,Active,No,2024-04-15,None,Ongoing,,High,Telemedicine,0-17,4.0
+2024-08-05 21:40:00,WhatsApp,Female,Gaza,Respiratory,Shortness of breath,Medium,Completed,No,General,Closed,Yes,2024-08-22,None,Referred,2024-08-22,High,Telemedicine,0-17,180.0
+2024-09-21 18:27:00,WhatsApp,Female,Gaza,GU,Flank pain,Medium,Reviewed,No,General,Closed,Yes,2024-09-26,None,Lost To Follow-Up,2024-10-02,Low,Telemedicine,18-40,4.0
+2025-04-28 02:18:00,WhatsApp,Male,Lebanon,Respiratory,Shortness of breath,Medium,Completed,No,General,Closed,Yes,2025-05-06,None,Resolved,2025-05-05,Medium,Telemedicine,0-17,4.0
+2025-08-28 01:21:00,WhatsApp,Female,Lebanon,Cardiovascular,BP >180/110,High,Pending,Yes,Specialists,Closed,No,,Level 1,Improved,2025-08-29,Medium,Telemedicine,65+,37.0
+2025-10-01 05:57:00,WhatsApp,Female,Lebanon,Trauma,Fever,Critical,Reviewed,Yes,Specialists,Closed,No,2025-10-12,Level 1,Ongoing,2025-10-19,High,Telemedicine,41-64,540.0
+2025-01-14 06:21:00,Manual,Female,Gaza,Respiratory,Shortness of breath,Medium,Reviewed,No,General,Follow-Up,Yes,2025-01-26,None,Resolved,,High,Telemedicine,41-64,75.0
+2025-08-09 21:50:00,Slack,Male,Gaza,Obstetrics,Reduced fetal movement,High,Completed,No,General,Follow-Up,Yes,2025-08-22,None,Referred,,Medium,Telemedicine,18-40,75.0
+2026-07-15 01:11:00,WhatsApp,Male,Gaza,Obstetrics,Reduced fetal movement,High,Reviewed,Yes,General,Active,Yes,2026-07-28,Level 2,Ongoing,,High,Telemedicine,65+,75.0
+2026-01-20 10:59:00,WhatsApp,Male,Lebanon,Mental Health,None,Low,Completed,No,Volunteer,Closed,No,2026-02-02,None,Lost To Follow-Up,2026-02-25,High,Telemedicine,0-17,37.0
+2025-09-08 02:29:00,WhatsApp,Female,Lebanon,Mental Health,None,Low,Pending,No,Specialists,Closed,No,2025-09-13,None,Ongoing,2025-10-04,Low,Telemedicine,0-17,4.0
+2024-05-10 11:46:00,WhatsApp,Female,Lebanon,Mental Health,None,Low,Reviewed,No,General,Closed,No,2024-05-13,None,Lost To Follow-Up,2024-06-14,High,Telemedicine,18-40,12.0
+2024-04-12 12:58:00,Slack,Male,Gaza,GI,Dehydration,High,Pending,Yes,General,Closed,Yes,2024-04-28,Level 3,Lost To Follow-Up,2024-05-07,Medium,Telemedicine,18-40,4.0
+2026-05-28 00:16:00,Manual,Female,Gaza,Obstetrics,Reduced fetal movement,High,Pending,Yes,Volunteer,Active,Yes,2026-05-29,Level 1,Improved,,Medium,Telemedicine,41-64,4.0
+2026-03-19 14:21:00,WhatsApp,Male,Gaza,GU,Flank pain,High,Reviewed,Yes,General,Closed,No,2026-04-04,Level 3,Improved,2026-04-03,Medium,Telemedicine,18-40,540.0
+2025-08-19 09:58:00,WhatsApp,Female,Gaza,Mental Health,None,Low,Completed,No,General,Intake,No,2025-09-06,None,Lost To Follow-Up,,Low,Telemedicine,0-17,75.0
+2024-05-06 14:56:00,Slack,Male,Lebanon,GU,Flank pain,Medium,Reviewed,No,Volunteer,Intake,No,2024-05-25,None,Referred,,High,Telemedicine,41-64,75.0
+2024-02-08 07:07:00,Slack,Male,Gaza,Obstetrics,Reduced fetal movement,Medium,Completed,No,General,Active,No,2024-02-28,None,Referred,,High,Telemedicine,65+,4.0
+2024-09-20 09:30:00,Manual,Female,Gaza,GI,Dehydration,Low,Pending,No,Specialists,Follow-Up,Yes,2024-09-30,None,Lost To Follow-Up,,Medium,Telemedicine,0-17,540.0
+2025-03-25 08:31:00,Manual,Female,Syria,ENT,None,Low,Reviewed,No,General,Follow-Up,No,2025-04-14,None,Resolved,,Medium,Telemedicine,18-40,540.0
+2024-01-07 12:48:00,WhatsApp,Male,Lebanon,GI,Dehydration,Low,Reviewed,No,General,Closed,Yes,2024-01-12,None,Resolved,2024-01-10,High,Telemedicine,18-40,180.0
+2026-03-19 19:10:00,Slack,Male,Gaza,Mental Health,None,High,Reviewed,Yes,General,Closed,Yes,2026-03-25,Level 3,Referred,2026-04-19,Medium,Telemedicine,41-64,4.0
+2024-10-23 01:24:00,WhatsApp,Female,Gaza,Cardiovascular,BP >180/110,High,Completed,Yes,General,Closed,No,2024-10-24,Level 2,Ongoing,2024-11-24,Medium,Telemedicine,41-64,75.0
+2024-07-31 19:25:00,WhatsApp,Male,Gaza,Mental Health,None,Low,Completed,No,General,Closed,Yes,2024-08-10,None,Ongoing,2024-08-29,High,Telemedicine,41-64,12.0
+2026-02-17 23:56:00,WhatsApp,Female,Gaza,GU,Flank pain,Critical,Reviewed,Yes,General,Closed,No,2026-03-04,Level 1,Ongoing,2026-03-10,Medium,Telemedicine,18-40,4.0
+2024-11-10 18:32:00,WhatsApp,Female,Lebanon,GU,Flank pain,Medium,Reviewed,No,General,Follow-Up,Yes,2024-11-19,None,Resolved,,Low,Telemedicine,41-64,75.0
+2025-09-04 18:26:00,WhatsApp,Male,Gaza,Trauma,Fever,Low,Pending,No,General,Active,Yes,2025-09-14,None,Improved,,High,Telemedicine,18-40,4.0
+2024-11-09 21:22:00,WhatsApp,Male,Lebanon,Respiratory,None,Medium,Completed,No,General,Closed,Yes,2024-11-13,None,Resolved,2024-11-25,Medium,Telemedicine,41-64,180.0
+2024-02-24 01:56:00,WhatsApp,Female,Lebanon,GI,Dehydration,High,Pending,Yes,General,Closed,No,2024-02-26,Level 3,Improved,2024-03-30,High,Telemedicine,0-17,37.0
+2025-03-15 13:18:00,WhatsApp,Male,Gaza,Mental Health,None,High,Completed,Yes,General,Closed,Yes,2025-03-17,Level 1,Resolved,2025-04-10,High,Telemedicine,18-40,37.0
+2024-09-28 22:49:00,WhatsApp,Male,Gaza,Cardiovascular,BP >180/110,Medium,Reviewed,No,Specialists,Active,No,,None,Improved,,High,Telemedicine,18-40,4.0
+2025-10-02 17:46:00,WhatsApp,Female,Syria,Respiratory,Shortness of breath,Medium,Pending,No,Specialists,Closed,Yes,2025-10-17,None,Referred,2025-11-02,Medium,Telemedicine,18-40,12.0
+2025-10-07 19:40:00,Manual,Male,Gaza,ENT,None,Medium,Pending,No,General,Closed,Yes,2025-10-17,None,Improved,2025-11-04,Low,Telemedicine,18-40,4.0
+2024-09-08 18:03:00,WhatsApp,Female,Gaza,ENT,None,Medium,Pending,No,Volunteer,Closed,Yes,2024-09-23,None,Referred,2024-10-13,Medium,Telemedicine,65+,4.0
+2025-08-15 08:42:00,WhatsApp,Male,Gaza,Respiratory,Shortness of breath,Medium,Completed,No,General,Active,Yes,2025-08-27,None,Improved,,Low,Telemedicine,65+,180.0
+2025-09-28 19:28:00,Manual,Female,Lebanon,Obstetrics,Reduced fetal movement,Medium,Pending,No,Volunteer,Closed,No,2025-10-07,None,Ongoing,2025-11-06,Low,Telemedicine,18-40,4.0
+2024-08-18 04:26:00,WhatsApp,Female,Gaza,Dermatology,None,High,Completed,Yes,Specialists,Active,Yes,2024-08-25,Level 3,Resolved,,Low,Telemedicine,41-64,4.0
+2025-09-20 07:43:00,WhatsApp,Male,Gaza,Dermatology,None,Medium,Pending,No,General,Active,Yes,2025-10-08,None,Lost To Follow-Up,,Medium,Telemedicine,18-40,180.0
+2024-07-13 09:23:00,WhatsApp,Male,Lebanon,GI,Dehydration,Medium,Reviewed,No,General,Follow-Up,No,2024-07-30,None,Lost To Follow-Up,,High,Telemedicine,41-64,4.0
+2026-05-08 15:13:00,Slack,Male,Lebanon,Dermatology,None,High,Reviewed,Yes,General,Intake,No,2026-05-11,Level 1,Lost To Follow-Up,,High,Telemedicine,0-17,75.0
+2024-06-25 19:36:00,Manual,Female,Syria,Respiratory,None,Medium,Completed,No,Volunteer,Closed,No,,None,Ongoing,2024-08-04,Medium,Telemedicine,41-64,4.0
+2024-08-30 15:46:00,WhatsApp,Male,Gaza,Trauma,Fever,Low,Completed,No,General,Closed,Yes,2024-09-19,None,Ongoing,2024-09-02,Low,Telemedicine,65+,12.0
+2024-07-26 13:59:00,Manual,Female,Gaza,Obstetrics,Reduced fetal movement,Medium,Reviewed,No,General,Closed,Yes,2024-07-31,None,Referred,2024-08-12,Low,Telemedicine,18-40,4.0
+2025-12-18 17:41:00,Manual,Female,Syria,ENT,None,Medium,Completed,No,General,Closed,Yes,2025-12-26,None,Ongoing,2026-01-01,Medium,Telemedicine,18-40,4.0
+2024-10-26 00:06:00,Manual,Male,Gaza,Dermatology,None,Medium,Completed,No,Specialists,Active,Yes,2024-11-11,None,Resolved,,Medium,Telemedicine,41-64,4.0
+2026-01-16 08:35:00,WhatsApp,Female,Gaza,ENT,None,Low,Completed,No,Specialists,Closed,No,2026-01-24,None,Ongoing,2026-02-24,Low,Telemedicine,0-17,75.0
+2026-02-08 15:40:00,Slack,Female,Gaza,GU,Flank pain,Medium,Reviewed,No,Volunteer,Closed,Yes,2026-02-11,None,Resolved,2026-02-22,High,Telemedicine,41-64,75.0
+2026-04-29 06:14:00,WhatsApp,Female,Gaza,Cardiovascular,BP >180/110,Medium,Completed,No,Volunteer,Closed,Yes,2026-05-19,None,Referred,2026-05-27,High,Telemedicine,41-64,12.0
+2026-05-03 19:03:00,WhatsApp,Female,Gaza,Respiratory,Shortness of breath,Critical,Reviewed,Yes,Specialists,Closed,Yes,2026-05-05,Level 2,Resolved,2026-06-08,Medium,Telemedicine,65+,12.0
+2024-11-05 16:23:00,WhatsApp,Male,Gaza,ENT,None,Medium,Pending,No,General,Closed,Yes,2024-11-15,None,Lost To Follow-Up,2024-11-12,Low,Telemedicine,65+,540.0
+2025-10-10 19:36:00,WhatsApp,Male,Gaza,Respiratory,None,Critical,Completed,Yes,Specialists,Follow-Up,No,2025-10-19,Level 1,Improved,,Medium,Telemedicine,65+,180.0
+2024-12-19 08:31:00,Manual,Male,Gaza,Dermatology,None,Medium,Pending,No,Volunteer,Closed,Yes,2024-12-21,None,Resolved,2024-12-20,Medium,Telemedicine,65+,75.0
+2024-01-23 03:31:00,Slack,Female,Gaza,GU,Flank pain,Medium,Completed,No,Volunteer,Closed,Yes,2024-01-25,None,Improved,2024-02-19,High,Telemedicine,41-64,12.0
+2024-01-15 06:32:00,Manual,Male,Gaza,Respiratory,Shortness of breath,Low,Pending,No,Specialists,Active,Yes,,None,Resolved,,Low,Telemedicine,41-64,12.0
+2024-08-02 07:02:00,Manual,Male,Gaza,ENT,None,High,Reviewed,Yes,General,Closed,No,2024-08-02,Level 3,Improved,2024-09-11,Low,Telemedicine,41-64,4.0
+2025-05-13 02:42:00,WhatsApp,Female,Gaza,Trauma,Fever,High,Pending,Yes,Specialists,Intake,Yes,2025-05-24,Level 1,Lost To Follow-Up,,Medium,Telemedicine,18-40,180.0
+2024-05-09 08:31:00,WhatsApp,Female,Gaza,Respiratory,Shortness of breath,Low,Pending,No,Specialists,Active,No,2024-05-21,None,Lost To Follow-Up,,Low,Telemedicine,18-40,180.0
+2025-11-18 01:27:00,WhatsApp,Female,Lebanon,Trauma,Fever,Medium,Reviewed,No,General,Active,No,2025-12-05,None,Ongoing,,Medium,Telemedicine,41-64,4.0
+2026-06-14 19:18:00,WhatsApp,Female,Lebanon,Mental Health,None,Critical,Pending,Yes,Specialists,Intake,Yes,2026-06-22,Level 3,Referred,,High,Telemedicine,65+,12.0
+2024-11-13 21:38:00,Manual,Female,Gaza,GU,Flank pain,Medium,Pending,No,Specialists,Active,No,2024-11-21,None,Improved,,Medium,Telemedicine,65+,4.0
+2025-01-25 16:10:00,Manual,Male,Gaza,GU,Flank pain,Low,Completed,No,Specialists,Closed,Yes,2025-02-12,None,Ongoing,2025-02-07,Medium,Telemedicine,18-40,12.0
+2025-01-14 08:14:00,WhatsApp,Female,Gaza,Mental Health,None,Low,Completed,No,General,Follow-Up,Yes,,None,Resolved,,High,Telemedicine,41-64,12.0
+2024-09-04 20:18:00,WhatsApp,Male,Lebanon,Respiratory,Shortness of breath,High,Reviewed,Yes,General,Follow-Up,Yes,2024-09-21,Level 3,Lost To Follow-Up,,Low,Telemedicine,0-17,4.0
+2025-01-30 10:30:00,Manual,Female,Gaza,Mental Health,None,Medium,Completed,No,General,Closed,No,2025-02-07,None,Ongoing,2025-03-02,Medium,Telemedicine,65+,12.0
+2024-12-25 17:34:00,WhatsApp,Male,Syria,Trauma,Fever,Medium,Completed,No,General,Active,Yes,2024-12-31,None,Resolved,,Low,Telemedicine,65+,75.0
+2025-10-02 18:41:00,WhatsApp,Female,Gaza,Mental Health,None,Medium,Pending,No,Specialists,Active,Yes,2025-10-22,None,Resolved,,Medium,Telemedicine,41-64,12.0
+2024-02-09 14:10:00,WhatsApp,Female,Gaza,Mental Health,None,Low,Completed,No,General,Closed,No,2024-02-27,None,Lost To Follow-Up,2024-03-06,High,Telemedicine,41-64,4.0
+2026-04-26 11:58:00,WhatsApp,Female,Gaza,Mental Health,None,High,Completed,Yes,Volunteer,Active,No,2026-04-27,Level 3,Improved,,Medium,Telemedicine,18-40,75.0
+2026-06-02 21:05:00,WhatsApp,Male,Lebanon,ENT,None,Medium,Pending,No,Specialists,Follow-Up,Yes,2026-06-13,None,Improved,,Medium,Telemedicine,65+,75.0
+2025-02-24 02:14:00,WhatsApp,Male,Gaza,Cardiovascular,BP >180/110,Critical,Completed,Yes,General,Closed,No,2025-03-13,Level 2,Lost To Follow-Up,2025-04-03,High,Telemedicine,41-64,180.0
+2025-03-05 05:45:00,WhatsApp,Female,Lebanon,Obstetrics,Reduced fetal movement,Medium,Completed,No,Volunteer,Intake,Yes,2025-03-22,None,Ongoing,,Low,Telemedicine,65+,4.0
+2024-01-29 12:35:00,Manual,Female,Lebanon,GU,Flank pain,Medium,Pending,No,Volunteer,Closed,Yes,2024-02-09,None,Lost To Follow-Up,2024-02-06,High,Telemedicine,18-40,75.0
+2024-01-07 07:33:00,WhatsApp,Male,Gaza,GU,Flank pain,Medium,Completed,No,General,Active,Yes,2024-01-13,None,Referred,,High,Telemedicine,41-64,12.0
+2025-07-22 18:22:00,Manual,Male,Lebanon,GU,Flank pain,Low,Pending,No,General,Follow-Up,Yes,2025-07-30,None,Lost To Follow-Up,,Medium,Telemedicine,41-64,12.0
+2025-04-23 15:59:00,Manual,Female,Gaza,GI,Dehydration,Medium,Reviewed,No,Specialists,Active,Yes,2025-04-24,None,Lost To Follow-Up,,Low,Telemedicine,65+,37.0
+2026-04-24 13:08:00,Slack,Male,Gaza,Respiratory,Shortness of breath,Low,Completed,No,General,Closed,No,2026-05-07,None,Improved,2026-06-03,High,Telemedicine,41-64,12.0
+2026-07-28 04:11:00,WhatsApp,Male,Gaza,Trauma,Fever,Medium,Completed,No,Volunteer,Closed,No,2026-08-07,None,Resolved,2026-08-22,High,Telemedicine,0-17,12.0
+2025-05-29 01:43:00,WhatsApp,Male,Syria,Mental Health,None,Medium,Reviewed,No,General,Closed,Yes,2025-06-16,None,Resolved,2025-06-02,Medium,Telemedicine,18-40,37.0
+2024-05-16 07:00:00,WhatsApp,Female,Syria,ENT,None,Low,Reviewed,No,General,Closed,Yes,2024-05-19,None,Improved,2024-06-23,Medium,Telemedicine,0-17,180.0
+2025-06-13 03:41:00,Manual,Female,Gaza,Dermatology,None,Medium,Reviewed,No,General,Closed,No,2025-06-14,None,Ongoing,2025-07-22,High,Telemedicine,0-17,75.0
+2024-03-14 02:36:00,WhatsApp,Female,Gaza,Obstetrics,Reduced fetal movement,Low,Reviewed,No,Specialists,Follow-Up,Yes,2024-03-16,None,Referred,,Medium,Telemedicine,65+,75.0
+2026-03-26 21:02:00,Manual,Female,Gaza,GI,Dehydration,Medium,Reviewed,No,Volunteer,Closed,Yes,2026-03-27,None,Referred,2026-04-13,High,Telemedicine,18-40,75.0
+2025-05-08 00:13:00,WhatsApp,Male,Gaza,Respiratory,None,High,Pending,Yes,General,Follow-Up,Yes,2025-05-21,Level 1,Resolved,,High,Telemedicine,41-64,37.0
+2025-06-09 09:59:00,WhatsApp,Male,Lebanon,Mental Health,None,Low,Reviewed,No,General,Follow-Up,No,2025-06-15,None,Referred,,High,Telemedicine,41-64,37.0
+2026-07-15 16:20:00,WhatsApp,Male,Gaza,Cardiovascular,BP >180/110,Medium,Reviewed,No,Specialists,Closed,No,2026-07-23,None,Lost To Follow-Up,2026-07-29,Medium,Telemedicine,41-64,4.0
+2024-09-15 20:29:00,WhatsApp,Female,Gaza,Dermatology,None,Low,Reviewed,No,Specialists,Intake,No,2024-09-29,None,Resolved,,Low,Telemedicine,65+,540.0
+2025-12-10 09:23:00,WhatsApp,Male,Lebanon,Cardiovascular,BP >180/110,Medium,Completed,No,Volunteer,Closed,Yes,2025-12-14,None,Ongoing,2026-01-10,Medium,Telemedicine,18-40,540.0
+2024-08-19 17:48:00,Slack,Female,Gaza,Dermatology,None,Medium,Completed,No,General,Active,No,2024-08-29,None,Lost To Follow-Up,,High,Telemedicine,65+,12.0
+2024-05-27 09:17:00,Manual,Male,Lebanon,Respiratory,Shortness of breath,Medium,Pending,No,Specialists,Active,No,2024-05-31,None,Improved,,Low,Telemedicine,18-40,180.0
+2025-09-19 10:58:00,Manual,Male,Lebanon,Mental Health,None,Medium,Reviewed,No,General,Closed,Yes,2025-10-05,None,Improved,2025-10-02,Medium,Telemedicine,0-17,540.0
+2024-05-08 13:27:00,WhatsApp,Female,Gaza,Respiratory,None,High,Pending,Yes,General,Follow-Up,No,2024-05-22,Level 3,Resolved,,Low,Telemedicine,18-40,540.0
+2024-04-07 00:27:00,WhatsApp,Male,Gaza,GI,Dehydration,Medium,Pending,No,Specialists,Closed,No,2024-04-09,None,Lost To Follow-Up,2024-04-13,High,Telemedicine,0-17,180.0
+2026-05-28 21:19:00,Manual,Female,Gaza,Mental Health,None,Low,Pending,No,Specialists,Follow-Up,No,2026-06-11,None,Referred,,Medium,Telemedicine,41-64,12.0
+2026-03-27 15:42:00,Manual,Female,Gaza,Trauma,Fever,Low,Reviewed,No,Specialists,Follow-Up,Yes,2026-04-08,None,Resolved,,Low,Telemedicine,18-40,37.0
+2025-05-02 17:14:00,Manual,Female,Syria,Obstetrics,Reduced fetal movement,High,Reviewed,Yes,General,Active,No,2025-05-06,Level 3,Referred,,Medium,Telemedicine,65+,540.0
+2026-03-15 13:08:00,Manual,Female,Gaza,Respiratory,Shortness of breath,Critical,Reviewed,Yes,General,Active,Yes,,Level 3,Resolved,,High,Telemedicine,18-40,180.0
+2024-06-11 04:49:00,WhatsApp,Female,Gaza,ENT,None,Low,Reviewed,No,General,Follow-Up,Yes,2024-06-19,None,Referred,,High,Telemedicine,18-40,4.0
+2025-12-25 23:23:00,WhatsApp,Female,Gaza,Dermatology,None,Medium,Reviewed,No,Specialists,Follow-Up,Yes,2026-01-02,None,Improved,,High,Telemedicine,0-17,37.0
+2026-01-20 03:12:00,WhatsApp,Female,Syria,Respiratory,None,Medium,Completed,No,General,Closed,No,2026-01-25,None,Lost To Follow-Up,2026-02-07,High,Telemedicine,41-64,180.0
+2026-03-21 08:58:00,WhatsApp,Female,Lebanon,Obstetrics,Reduced fetal movement,Medium,Pending,No,Specialists,Closed,No,2026-04-09,None,Referred,2026-03-26,Medium,Telemedicine,65+,75.0
+2024-09-16 01:45:00,Manual,Female,Gaza,Respiratory,Shortness of breath,Medium,Completed,No,General,Follow-Up,No,2024-09-16,None,Lost To Follow-Up,,Low,Telemedicine,18-40,180.0
+2025-05-20 07:52:00,WhatsApp,Female,Syria,Dermatology,None,Low,Pending,No,General,Intake,Yes,2025-05-24,None,Lost To Follow-Up,,Medium,Telemedicine,65+,75.0
+2024-09-12 12:30:00,Manual,Male,Gaza,Respiratory,None,Medium,Pending,No,General,Intake,Yes,2024-09-20,None,Referred,,Low,Telemedicine,65+,180.0
+2024-03-03 18:24:00,WhatsApp,Female,Gaza,Mental Health,None,Medium,Pending,No,General,Active,No,2024-03-16,None,Lost To Follow-Up,,High,Telemedicine,65+,37.0
+2024-12-30 17:34:00,WhatsApp,Male,Gaza,Dermatology,None,Medium,Completed,No,General,Closed,No,2025-01-01,None,Lost To Follow-Up,2025-02-01,Low,Telemedicine,65+,12.0
+2025-01-29 16:41:00,WhatsApp,Female,Syria,Cardiovascular,BP >180/110,High,Completed,Yes,Volunteer,Closed,No,2025-02-11,Level 2,Ongoing,2025-02-05,Medium,Telemedicine,18-40,540.0
+2024-01-05 13:12:00,Slack,Female,Gaza,GU,Flank pain,High,Reviewed,Yes,General,Closed,Yes,2024-01-08,Level 1,Referred,2024-01-15,Low,Telemedicine,18-40,540.0
+2025-11-16 19:26:00,Manual,Female,Gaza,Dermatology,None,Low,Completed,No,Specialists,Follow-Up,Yes,,None,Improved,,Low,Telemedicine,18-40,540.0
+2025-10-09 08:39:00,Manual,Female,Gaza,Mental Health,None,Critical,Reviewed,Yes,General,Closed,Yes,2025-10-13,Level 1,Resolved,2025-10-16,Low,Telemedicine,41-64,4.0
+2025-11-10 17:44:00,WhatsApp,Female,Gaza,Obstetrics,Reduced fetal movement,High,Completed,No,Specialists,Closed,No,2025-11-30,None,Ongoing,2025-11-24,Medium,Telemedicine,18-40,540.0
+2025-09-02 02:05:00,Manual,Female,Lebanon,GI,Dehydration,Medium,Completed,No,Volunteer,Active,Yes,2025-09-05,None,Lost To Follow-Up,,High,Telemedicine,0-17,180.0
+2026-02-28 17:55:00,WhatsApp,Male,Lebanon,Obstetrics,Reduced fetal movement,Low,Completed,No,Specialists,Active,Yes,2026-03-03,None,Improved,,High,Telemedicine,65+,12.0
+2025-10-03 15:53:00,WhatsApp,Female,Gaza,Mental Health,None,Low,Pending,No,Specialists,Closed,No,2025-10-14,None,Referred,2025-11-01,Low,Telemedicine,18-40,4.0
+2024-05-22 22:15:00,WhatsApp,Female,Gaza,Cardiovascular,BP >180/110,Medium,Reviewed,No,General,Closed,Yes,2024-05-23,None,Ongoing,2024-05-31,Low,Telemedicine,41-64,37.0
+2026-05-04 02:06:00,Manual,Female,Gaza,Dermatology,None,High,Completed,Yes,Specialists,Intake,No,2026-05-10,Level 3,Referred,,High,Telemedicine,65+,75.0
+2025-06-14 10:12:00,Slack,Male,Lebanon,Trauma,Fever,High,Reviewed,Yes,General,Follow-Up,Yes,2025-06-15,Level 3,Ongoing,,Low,Telemedicine,65+,12.0
+2025-01-21 13:30:00,WhatsApp,Male,Gaza,Obstetrics,Reduced fetal movement,Critical,Completed,Yes,General,Follow-Up,No,2025-01-27,Level 3,Referred,,Medium,Telemedicine,65+,75.0
+2025-06-29 05:30:00,Manual,Female,Gaza,GU,Flank pain,Medium,Pending,No,Volunteer,Follow-Up,Yes,2025-07-19,None,Referred,,Medium,Telemedicine,41-64,180.0
+2025-04-04 20:19:00,Manual,Male,Gaza,Trauma,Fever,Medium,Reviewed,No,General,Closed,No,2025-04-10,None,Referred,2025-04-22,Medium,Telemedicine,65+,180.0
+2024-06-04 16:20:00,WhatsApp,Male,Syria,ENT,None,High,Completed,Yes,Volunteer,Closed,Yes,2024-06-20,Level 2,Improved,2024-07-01,Medium,Telemedicine,0-17,12.0
+2024-11-10 00:19:00,WhatsApp,Female,Syria,ENT,None,High,Reviewed,Yes,General,Closed,Yes,2024-11-28,Level 3,Ongoing,2024-12-13,High,Telemedicine,65+,75.0
+2024-12-16 21:03:00,Slack,Female,Lebanon,Respiratory,None,Low,Pending,No,General,Closed,No,2024-12-27,None,Resolved,2025-01-25,Low,Telemedicine,65+,180.0
+2024-06-07 15:33:00,Manual,Female,Lebanon,Obstetrics,Reduced fetal movement,Medium,Pending,No,Specialists,Closed,No,2024-06-24,None,Ongoing,2024-07-16,High,Telemedicine,65+,75.0
+2025-01-07 01:53:00,WhatsApp,Female,Lebanon,Obstetrics,Reduced fetal movement,High,Pending,No,General,Active,Yes,2025-01-12,None,Resolved,,High,Telemedicine,18-40,180.0
+2024-04-26 00:33:00,Manual,Female,Syria,Mental Health,None,Medium,Pending,No,General,Closed,No,2024-05-12,None,Resolved,2024-06-03,High,Telemedicine,65+,75.0
+2026-05-06 07:20:00,WhatsApp,Female,Gaza,Cardiovascular,BP >180/110,High,Pending,Yes,General,Closed,Yes,,Level 1,Lost To Follow-Up,2026-05-18,Medium,Telemedicine,41-64,37.0
+2025-01-15 15:17:00,WhatsApp,Female,Gaza,Respiratory,Shortness of breath,Medium,Completed,No,General,Closed,Yes,2025-02-04,None,Improved,2025-01-23,High,Telemedicine,41-64,12.0
+2025-03-10 04:25:00,Slack,Male,Gaza,Cardiovascular,BP >180/110,Medium,Completed,No,Specialists,Intake,No,2025-03-14,None,Lost To Follow-Up,,High,Telemedicine,18-40,540.0
+2025-03-25 02:43:00,WhatsApp,Female,Gaza,GI,Dehydration,Medium,Pending,No,Specialists,Closed,No,2025-04-03,None,Improved,2025-04-20,Low,Telemedicine,18-40,540.0
+2024-03-26 10:01:00,WhatsApp,Male,Gaza,Cardiovascular,BP >180/110,Medium,Reviewed,No,General,Active,Yes,2024-03-29,None,Lost To Follow-Up,,Low,Telemedicine,41-64,37.0
+2024-08-31 20:09:00,WhatsApp,Female,Syria,GU,Flank pain,Low,Reviewed,No,Volunteer,Intake,Yes,2024-09-19,None,Resolved,,Medium,Telemedicine,65+,540.0
+2025-01-20 02:31:00,Manual,Male,Gaza,Dermatology,None,Medium,Pending,No,Specialists,Follow-Up,No,2025-02-06,None,Resolved,,Medium,Telemedicine,41-64,75.0
+2024-07-15 13:05:00,WhatsApp,Male,Gaza,GI,Dehydration,Low,Reviewed,No,Specialists,Closed,No,2024-07-31,None,Resolved,2024-08-23,Medium,Telemedicine,0-17,540.0
+2026-03-13 17:56:00,Slack,Male,Gaza,Cardiovascular,BP >180/110,Low,Pending,No,Volunteer,Closed,No,2026-03-31,None,Ongoing,2026-04-17,Medium,Telemedicine,41-64,4.0
+2025-04-16 02:58:00,WhatsApp,Male,Gaza,Trauma,Fever,Low,Completed,No,Volunteer,Active,Yes,2025-04-30,None,Lost To Follow-Up,,Low,Telemedicine,65+,540.0
+2025-01-01 06:18:00,WhatsApp,Male,Gaza,Dermatology,None,Low,Completed,No,General,Active,No,2025-01-05,None,Lost To Follow-Up,,High,Telemedicine,41-64,180.0
+2025-08-01 03:52:00,WhatsApp,Male,Gaza,Respiratory,Shortness of breath,Medium,Completed,No,Volunteer,Follow-Up,No,2025-08-14,None,Ongoing,,Low,Telemedicine,65+,75.0
+2025-11-15 18:45:00,Manual,Female,Gaza,GU,Flank pain,Low,Reviewed,No,Specialists,Follow-Up,No,2025-12-01,None,Referred,,Low,Telemedicine,41-64,12.0
+2025-06-08 14:15:00,WhatsApp,Female,Gaza,GI,Dehydration,Medium,Pending,No,Specialists,Closed,Yes,2025-06-12,None,Lost To Follow-Up,2025-07-09,High,Telemedicine,0-17,180.0
+2025-10-11 03:38:00,Slack,Male,Syria,GI,Dehydration,High,Pending,Yes,Specialists,Follow-Up,Yes,2025-10-12,Level 1,Improved,,High,Telemedicine,18-40,37.0
+2026-01-24 11:19:00,Manual,Male,Syria,Trauma,Fever,High,Pending,Yes,Specialists,Closed,No,2026-02-05,Level 3,Ongoing,2026-02-22,High,Telemedicine,65+,180.0
+2024-07-23 10:22:00,WhatsApp,Female,Lebanon,GU,Flank pain,High,Reviewed,Yes,General,Closed,No,2024-08-10,Level 3,Referred,2024-08-26,Low,Telemedicine,65+,540.0
+2025-10-23 19:40:00,Manual,Male,Gaza,Mental Health,None,Low,Completed,No,Specialists,Active,Yes,2025-11-10,None,Lost To Follow-Up,,Medium,Telemedicine,0-17,540.0
+2026-04-05 03:35:00,WhatsApp,Male,Lebanon,Respiratory,None,Low,Reviewed,No,Volunteer,Closed,Yes,2026-04-10,None,Ongoing,2026-04-26,High,Telemedicine,41-64,4.0
+2025-07-14 18:29:00,WhatsApp,Male,Gaza,Mental Health,None,Medium,Reviewed,No,General,Active,Yes,2025-07-25,None,Improved,,High,Telemedicine,41-64,12.0
+2025-05-01 17:53:00,WhatsApp,Male,Lebanon,Dermatology,None,Medium,Completed,No,General,Follow-Up,No,2025-05-09,None,Lost To Follow-Up,,Low,Telemedicine,0-17,4.0
+2025-11-21 23:56:00,Manual,Male,Gaza,Dermatology,None,Medium,Pending,No,Specialists,Closed,No,2025-11-21,None,Resolved,2025-11-23,Medium,Telemedicine,41-64,75.0
+2025-08-18 16:17:00,WhatsApp,Male,Gaza,Respiratory,None,Critical,Pending,Yes,General,Follow-Up,No,2025-09-02,Level 3,Improved,,Medium,Telemedicine,0-17,540.0
+2024-09-24 00:32:00,WhatsApp,Male,Lebanon,GU,Flank pain,Medium,Reviewed,No,General,Follow-Up,Yes,2024-09-25,None,Referred,,High,Telemedicine,65+,180.0
+2025-12-25 01:12:00,WhatsApp,Male,Gaza,Dermatology,None,Medium,Reviewed,No,General,Closed,Yes,2026-01-01,None,Referred,2025-12-27,Low,Telemedicine,41-64,180.0
+2026-04-15 16:26:00,WhatsApp,Male,Gaza,Respiratory,None,High,Completed,No,General,Closed,No,2026-05-05,None,Resolved,2026-05-10,High,Telemedicine,18-40,180.0
+2026-02-18 04:24:00,Manual,Male,Syria,Obstetrics,Reduced fetal movement,Medium,Completed,No,General,Active,No,2026-02-28,None,Resolved,,High,Telemedicine,41-64,540.0
+2024-10-05 19:08:00,WhatsApp,Male,Gaza,Trauma,Fever,Medium,Reviewed,No,General,Closed,Yes,2024-10-14,None,Resolved,2024-11-06,Low,Telemedicine,65+,12.0
+2024-10-28 07:14:00,Slack,Female,Gaza,Trauma,Fever,Medium,Completed,No,Volunteer,Closed,No,2024-11-16,None,Improved,2024-11-19,Low,Telemedicine,18-40,37.0
+2025-02-12 12:38:00,WhatsApp,Male,Lebanon,GU,Flank pain,Low,Reviewed,No,General,Active,No,2025-02-19,None,Lost To Follow-Up,,Medium,Telemedicine,65+,4.0
+2025-01-16 17:44:00,WhatsApp,Male,Gaza,GU,Flank pain,Critical,Completed,Yes,Volunteer,Closed,Yes,2025-01-19,Level 2,Resolved,2025-01-30,Low,Telemedicine,41-64,75.0
+2024-12-18 04:46:00,WhatsApp,Female,Lebanon,Respiratory,Shortness of breath,Medium,Completed,No,Specialists,Follow-Up,Yes,2024-12-18,None,Ongoing,,Medium,Telemedicine,18-40,180.0
+2024-10-30 01:45:00,WhatsApp,Female,Gaza,Respiratory,Shortness of breath,Medium,Reviewed,No,General,Closed,Yes,2024-10-30,None,Lost To Follow-Up,2024-11-28,High,Telemedicine,18-40,180.0
+2024-08-22 21:07:00,Manual,Female,Gaza,Dermatology,None,High,Reviewed,Yes,Volunteer,Follow-Up,Yes,2024-09-07,Level 3,Improved,,High,Telemedicine,65+,12.0
+2024-08-04 14:41:00,Manual,Female,Lebanon,Trauma,Fever,Medium,Reviewed,No,Specialists,Active,No,2024-08-12,None,Ongoing,,High,Telemedicine,41-64,180.0
+2025-11-30 19:26:00,WhatsApp,Female,Gaza,GI,Dehydration,High,Pending,Yes,General,Closed,Yes,2025-12-07,Level 1,Referred,2025-12-25,High,Telemedicine,0-17,540.0
+2026-07-11 05:16:00,Slack,Male,Gaza,Trauma,Fever,Medium,Completed,No,Specialists,Closed,Yes,2026-07-15,None,Lost To Follow-Up,2026-07-16,Medium,Telemedicine,65+,37.0
+2025-09-22 06:48:00,Manual,Female,Gaza,Cardiovascular,BP >180/110,Medium,Completed,No,General,Closed,No,2025-10-08,None,Resolved,2025-10-07,Low,Telemedicine,18-40,12.0
+2025-10-25 01:04:00,WhatsApp,Female,Lebanon,Mental Health,None,Medium,Reviewed,No,Specialists,Intake,No,2025-10-27,None,Improved,,Low,Telemedicine,18-40,12.0
+2025-01-19 18:25:00,WhatsApp,Female,Gaza,Respiratory,None,Low,Reviewed,No,Volunteer,Active,No,,None,Improved,,Medium,Telemedicine,65+,75.0
+2025-06-07 16:09:00,WhatsApp,Female,Lebanon,GU,Flank pain,Low,Completed,No,Specialists,Follow-Up,Yes,2025-06-22,None,Ongoing,,Low,Telemedicine,41-64,75.0
+2025-02-25 16:13:00,WhatsApp,Female,Lebanon,Respiratory,None,High,Completed,Yes,Specialists,Active,No,2025-03-09,Level 1,Referred,,High,Telemedicine,0-17,4.0
+2026-05-24 19:11:00,WhatsApp,Male,Gaza,Dermatology,None,Medium,Reviewed,No,General,Active,No,2026-06-11,None,Ongoing,,High,Telemedicine,41-64,37.0
+2024-11-02 03:42:00,WhatsApp,Female,Lebanon,Trauma,Fever,Medium,Completed,No,General,Intake,No,2024-11-07,None,Ongoing,,Medium,Telemedicine,65+,75.0
+2024-02-15 13:30:00,WhatsApp,Male,Gaza,GU,Flank pain,Low,Completed,No,Specialists,Active,No,2024-02-29,None,Lost To Follow-Up,,High,Telemedicine,0-17,75.0
+2024-06-05 04:25:00,WhatsApp,Female,Gaza,Dermatology,None,Medium,Reviewed,No,General,Intake,Yes,2024-06-14,None,Referred,,Low,Telemedicine,41-64,180.0
+2026-06-01 02:18:00,Manual,Female,Syria,Respiratory,None,High,Reviewed,Yes,Volunteer,Active,Yes,2026-06-10,Level 2,Improved,,Medium,Telemedicine,0-17,37.0
+2025-08-24 04:37:00,WhatsApp,Male,Gaza,GI,Dehydration,High,Reviewed,Yes,Specialists,Active,Yes,2025-09-11,Level 1,Ongoing,,Low,Telemedicine,41-64,540.0
+2024-12-03 06:05:00,WhatsApp,Female,Gaza,ENT,None,High,Completed,Yes,General,Follow-Up,No,2024-12-18,Level 1,Lost To Follow-Up,,Medium,Telemedicine,41-64,75.0
+2025-05-11 22:38:00,Manual,Male,Gaza,GI,Dehydration,Low,Pending,No,Specialists,Closed,No,2025-05-24,None,Referred,2025-05-18,Low,Telemedicine,41-64,540.0
+2026-05-31 03:21:00,Manual,Female,Gaza,ENT,None,Low,Pending,No,Volunteer,Closed,Yes,2026-06-07,None,Lost To Follow-Up,2026-06-06,Low,Telemedicine,41-64,180.0
+2024-12-10 23:45:00,WhatsApp,Male,Gaza,Trauma,Fever,Medium,Completed,No,General,Closed,No,2024-12-27,None,Improved,2025-01-16,High,Telemedicine,41-64,37.0
+2026-02-28 16:02:00,WhatsApp,Male,Gaza,GU,Flank pain,Critical,Pending,Yes,Volunteer,Intake,No,2026-03-09,Level 3,Lost To Follow-Up,,Low,Telemedicine,18-40,75.0
+2024-04-17 09:29:00,WhatsApp,Female,Gaza,Mental Health,None,Medium,Reviewed,No,General,Closed,No,2024-04-22,None,Referred,2024-05-06,Low,Telemedicine,18-40,75.0
+2025-04-20 12:03:00,WhatsApp,Male,Gaza,Dermatology,None,Medium,Completed,No,General,Closed,Yes,2025-05-08,None,Improved,2025-04-23,High,Telemedicine,0-17,180.0
+2026-01-18 18:09:00,WhatsApp,Male,Gaza,GU,Flank pain,Medium,Pending,No,General,Follow-Up,No,2026-01-18,None,Ongoing,,Medium,Telemedicine,41-64,540.0
+2025-05-05 16:57:00,WhatsApp,Female,Gaza,Obstetrics,Reduced fetal movement,Low,Reviewed,No,Specialists,Closed,No,2025-05-09,None,Lost To Follow-Up,2025-05-26,Medium,Telemedicine,41-64,12.0
+2024-04-21 11:19:00,WhatsApp,Male,Syria,Respiratory,None,Low,Completed,No,General,Closed,No,2024-04-30,None,Referred,2024-05-01,High,Telemedicine,18-40,540.0
+2024-02-08 10:24:00,WhatsApp,Female,Lebanon,Mental Health,None,Medium,Pending,No,Volunteer,Closed,Yes,2024-02-10,None,Ongoing,2024-02-21,Medium,Telemedicine,65+,75.0
+2025-01-22 16:46:00,WhatsApp,Male,Gaza,GI,Dehydration,Medium,Pending,No,Volunteer,Follow-Up,No,2025-01-28,None,Lost To Follow-Up,,High,Telemedicine,41-64,540.0
+2024-08-14 06:49:00,WhatsApp,Female,Gaza,Mental Health,None,High,Completed,Yes,Volunteer,Follow-Up,No,2024-09-03,Level 1,Lost To Follow-Up,,Low,Telemedicine,65+,180.0
+2024-05-13 12:00:00,Manual,Female,Lebanon,GU,Flank pain,Medium,Pending,No,Volunteer,Intake,Yes,2024-05-19,None,Improved,,High,Telemedicine,18-40,75.0
+2026-06-03 02:57:00,Manual,Female,Lebanon,Respiratory,None,Medium,Pending,No,General,Closed,Yes,2026-06-07,None,Resolved,2026-06-28,Medium,Telemedicine,65+,540.0
+2024-03-06 11:01:00,Manual,Female,Gaza,GI,Dehydration,Low,Pending,No,Specialists,Intake,Yes,2024-03-26,None,Lost To Follow-Up,,High,Telemedicine,41-64,540.0
+2025-07-04 11:41:00,WhatsApp,Male,Gaza,GI,Dehydration,High,Reviewed,Yes,General,Closed,Yes,2025-07-14,Level 1,Ongoing,2025-08-09,High,Telemedicine,41-64,37.0
+2024-10-22 18:00:00,Slack,Female,Gaza,Mental Health,None,Low,Pending,No,General,Closed,No,2024-11-08,None,Ongoing,2024-11-10,High,Telemedicine,41-64,75.0
+2026-05-07 17:55:00,WhatsApp,Male,Gaza,Respiratory,Shortness of breath,Low,Completed,No,Specialists,Intake,No,2026-05-08,None,Referred,,High,Telemedicine,18-40,37.0
+2024-05-08 19:24:00,Manual,Male,Gaza,Respiratory,Shortness of breath,High,Completed,Yes,Specialists,Closed,No,2024-05-08,Level 1,Referred,2024-05-15,Low,Telemedicine,0-17,180.0
+2025-11-21 08:51:00,WhatsApp,Female,Gaza,Dermatology,None,Low,Completed,No,Volunteer,Closed,No,2025-12-05,None,Lost To Follow-Up,2025-12-17,Medium,Telemedicine,41-64,12.0
+2025-10-04 00:54:00,Manual,Male,Gaza,Respiratory,Shortness of breath,High,Pending,Yes,General,Follow-Up,Yes,2025-10-08,Level 3,Resolved,,Medium,Telemedicine,18-40,540.0
+2024-10-21 23:04:00,Slack,Male,Gaza,Cardiovascular,BP >180/110,High,Reviewed,Yes,Specialists,Closed,Yes,2024-11-01,Level 1,Ongoing,2024-10-29,Medium,Telemedicine,0-17,12.0
+2024-08-16 00:52:00,Manual,Female,Gaza,Obstetrics,Reduced fetal movement,Low,Reviewed,No,Specialists,Follow-Up,Yes,2024-08-22,None,Improved,,High,Telemedicine,41-64,4.0
+2026-07-07 15:03:00,Slack,Female,Gaza,Dermatology,None,Medium,Pending,No,Volunteer,Active,Yes,2026-07-19,None,Ongoing,,Low,Telemedicine,18-40,75.0
+2024-10-19 21:03:00,Manual,Female,Gaza,Trauma,Fever,Low,Pending,No,General,Active,Yes,2024-11-05,None,Improved,,High,Telemedicine,65+,75.0
+2024-02-17 00:40:00,Manual,Male,Gaza,Respiratory,None,High,Completed,Yes,Volunteer,Closed,Yes,2024-02-17,Level 2,Resolved,2024-03-18,Low,Telemedicine,41-64,180.0
+2024-11-04 23:46:00,Slack,Male,Gaza,Dermatology,None,Medium,Reviewed,No,General,Active,No,2024-11-22,None,Resolved,,High,Telemedicine,65+,37.0
+2026-04-22 16:53:00,WhatsApp,Male,Gaza,Dermatology,None,Critical,Completed,No,Specialists,Follow-Up,No,2026-05-05,None,Improved,,Low,Telemedicine,0-17,75.0
+2024-05-08 02:44:00,Manual,Male,Gaza,GI,Dehydration,Medium,Completed,No,General,Active,Yes,,None,Referred,,Low,Telemedicine,18-40,12.0
+2024-06-24 02:16:00,WhatsApp,Male,Gaza,Cardiovascular,BP >180/110,High,Reviewed,No,Specialists,Follow-Up,No,2024-06-27,None,Ongoing,,Medium,Telemedicine,41-64,540.0
+2025-09-16 02:40:00,WhatsApp,Female,Gaza,Mental Health,None,Critical,Reviewed,Yes,Specialists,Active,No,2025-09-16,Level 1,Lost To Follow-Up,,Low,Telemedicine,18-40,180.0
+2024-01-28 02:21:00,Manual,Female,Gaza,GI,Dehydration,Medium,Completed,No,General,Active,No,2024-02-03,None,Referred,,Medium,Telemedicine,41-64,4.0
+2025-02-21 19:14:00,Manual,Female,Gaza,Mental Health,None,Low,Pending,No,Specialists,Intake,Yes,2025-02-24,None,Ongoing,,High,Telemedicine,65+,75.0
+2025-04-22 13:39:00,Manual,Female,Lebanon,Obstetrics,Reduced fetal movement,Medium,Pending,No,General,Closed,No,2025-04-29,None,Referred,2025-05-12,High,Telemedicine,18-40,12.0
+2025-06-19 22:14:00,Manual,Male,Gaza,Mental Health,None,Critical,Completed,No,General,Intake,No,2025-06-28,None,Improved,,High,Telemedicine,65+,37.0
+2024-07-01 22:14:00,WhatsApp,Male,Gaza,Mental Health,None,Medium,Reviewed,No,Specialists,Closed,Yes,2024-07-01,None,Resolved,2024-07-12,Low,Telemedicine,0-17,37.0
+2025-09-16 11:10:00,Manual,Female,Gaza,Trauma,Fever,Critical,Reviewed,Yes,General,Closed,Yes,2025-10-02,Level 3,Referred,2025-10-02,High,Telemedicine,65+,12.0
+2026-05-05 23:47:00,Manual,Male,Gaza,ENT,None,Low,Reviewed,No,Volunteer,Active,No,2026-05-12,None,Resolved,,Low,Telemedicine,18-40,180.0
+2025-07-05 02:11:00,WhatsApp,Male,Syria,Cardiovascular,BP >180/110,Medium,Pending,No,Specialists,Intake,No,2025-07-23,None,Referred,,High,Telemedicine,0-17,540.0
+2025-08-09 13:46:00,Manual,Male,Lebanon,Trauma,Fever,High,Pending,Yes,Specialists,Intake,No,2025-08-20,Level 2,Lost To Follow-Up,,Low,Telemedicine,0-17,75.0
+2025-02-27 18:48:00,WhatsApp,Male,Lebanon,Trauma,Fever,Medium,Completed,No,Volunteer,Intake,No,2025-03-11,None,Resolved,,High,Telemedicine,65+,540.0
+2026-02-24 09:43:00,Manual,Female,Syria,GU,Flank pain,Medium,Completed,No,Volunteer,Follow-Up,No,2026-03-05,None,Referred,,Low,Telemedicine,65+,4.0
+2024-09-10 11:46:00,WhatsApp,Female,Gaza,GU,Flank pain,Medium,Completed,No,General,Active,Yes,2024-09-15,None,Improved,,Medium,Telemedicine,65+,37.0
+2026-05-22 21:47:00,Manual,Female,Gaza,Cardiovascular,BP >180/110,Critical,Reviewed,Yes,General,Active,No,2026-06-01,Level 3,Improved,,Medium,Telemedicine,65+,4.0
+2025-07-05 05:31:00,WhatsApp,Male,Gaza,Obstetrics,Reduced fetal movement,Low,Reviewed,No,Specialists,Follow-Up,Yes,2025-07-12,None,Lost To Follow-Up,,Low,Telemedicine,41-64,180.0
+2024-09-14 17:43:00,Slack,Male,Gaza,Trauma,Fever,Medium,Pending,No,Specialists,Active,No,2024-10-04,None,Improved,,Medium,Telemedicine,18-40,37.0
+2025-12-27 10:11:00,WhatsApp,Male,Gaza,Respiratory,None,Critical,Reviewed,Yes,General,Closed,Yes,2025-12-31,Level 2,Referred,2026-01-07,Medium,Telemedicine,41-64,37.0
+2024-11-06 04:08:00,Manual,Male,Gaza,Cardiovascular,BP >180/110,Low,Completed,No,General,Closed,Yes,2024-11-10,None,Improved,2024-11-27,Low,Telemedicine,41-64,75.0
+2025-02-15 17:20:00,WhatsApp,Male,Gaza,Respiratory,None,High,Completed,Yes,Specialists,Active,Yes,2025-03-04,Level 1,Referred,,Medium,Telemedicine,65+,37.0
+2024-10-20 11:32:00,WhatsApp,Male,Gaza,ENT,None,Low,Pending,No,Volunteer,Active,No,2024-10-27,None,Lost To Follow-Up,,Low,Telemedicine,65+,12.0
+2025-12-10 16:45:00,Slack,Female,Gaza,Mental Health,None,Medium,Reviewed,No,Specialists,Active,Yes,2025-12-13,None,Improved,,Medium,Telemedicine,41-64,75.0
+2026-01-04 20:25:00,Manual,Female,Gaza,Cardiovascular,BP >180/110,Medium,Reviewed,No,General,Closed,Yes,2026-01-18,None,Referred,2026-01-06,Medium,Telemedicine,41-64,37.0
+2025-08-30 09:54:00,WhatsApp,Female,Gaza,Trauma,Fever,Low,Completed,No,Specialists,Active,No,2025-09-01,None,Lost To Follow-Up,,Medium,Telemedicine,18-40,12.0
+2024-03-19 19:51:00,Manual,Male,Gaza,Mental Health,None,Low,Reviewed,No,General,Follow-Up,Yes,2024-04-07,None,Resolved,,Medium,Telemedicine,0-17,12.0
+2025-07-20 11:25:00,WhatsApp,Male,Gaza,GU,Flank pain,Low,Reviewed,No,Volunteer,Follow-Up,Yes,2025-07-31,None,Ongoing,,Medium,Telemedicine,41-64,37.0
+2025-11-23 10:46:00,Manual,Female,Gaza,ENT,None,Low,Reviewed,No,General,Closed,No,2025-11-30,None,Improved,2025-12-01,Low,Telemedicine,18-40,4.0
+2024-10-22 19:38:00,WhatsApp,Male,Gaza,ENT,None,Low,Completed,No,Volunteer,Closed,No,2024-11-09,None,Lost To Follow-Up,2024-10-24,Low,Telemedicine,18-40,540.0
+2024-10-09 05:40:00,WhatsApp,Female,Gaza,Mental Health,None,High,Reviewed,Yes,General,Active,No,2024-10-17,Level 2,Ongoing,,Medium,Telemedicine,41-64,37.0
+2024-06-17 14:44:00,WhatsApp,Female,Syria,GU,Flank pain,Medium,Reviewed,No,General,Active,No,2024-07-07,None,Improved,,High,Telemedicine,65+,540.0
+2024-11-17 12:26:00,WhatsApp,Female,Gaza,Obstetrics,Reduced fetal movement,Medium,Reviewed,No,Volunteer,Active,No,2024-12-02,None,Improved,,Medium,Telemedicine,41-64,4.0
+2026-05-05 23:19:00,WhatsApp,Female,Gaza,GI,Dehydration,Critical,Pending,Yes,General,Closed,Yes,2026-05-06,Level 3,Ongoing,2026-06-13,Low,Telemedicine,41-64,540.0
+2024-12-19 16:22:00,WhatsApp,Female,Lebanon,GI,Dehydration,High,Pending,Yes,General,Follow-Up,Yes,2024-12-27,Level 1,Referred,,Medium,Telemedicine,0-17,75.0
+2024-08-01 13:59:00,Slack,Female,Gaza,Mental Health,None,Medium,Pending,No,Specialists,Closed,No,2024-08-05,None,Ongoing,2024-08-28,Medium,Telemedicine,0-17,12.0
+2026-02-10 20:20:00,WhatsApp,Female,Lebanon,Dermatology,None,Medium,Completed,No,General,Closed,Yes,2026-02-19,None,Improved,2026-03-17,Medium,Telemedicine,65+,180.0
+2025-04-13 09:23:00,Slack,Female,Lebanon,Obstetrics,Reduced fetal movement,Medium,Pending,No,General,Closed,Yes,2025-04-19,None,Ongoing,2025-04-20,Low,Telemedicine,18-40,75.0
+2024-12-29 05:41:00,WhatsApp,Male,Gaza,Cardiovascular,BP >180/110,Low,Reviewed,No,General,Closed,No,2025-01-01,None,Resolved,2025-01-05,Low,Telemedicine,65+,180.0
+2026-04-23 19:17:00,Slack,Male,Gaza,Mental Health,None,High,Pending,Yes,Volunteer,Follow-Up,No,2026-05-09,Level 3,Resolved,,Medium,Telemedicine,18-40,4.0
+2024-08-03 03:41:00,WhatsApp,Male,Gaza,Trauma,Fever,Low,Pending,No,Volunteer,Closed,Yes,2024-08-07,None,Lost To Follow-Up,2024-08-20,High,Telemedicine,41-64,4.0
+2025-05-20 08:58:00,WhatsApp,Male,Gaza,GU,Flank pain,High,Completed,Yes,General,Active,Yes,2025-06-02,Level 3,Resolved,,Low,Telemedicine,0-17,4.0
+2024-03-17 03:18:00,Slack,Female,Lebanon,GU,Flank pain,Medium,Reviewed,No,Specialists,Follow-Up,Yes,2024-04-03,None,Resolved,,Medium,Telemedicine,0-17,12.0
+2026-05-12 01:53:00,Slack,Female,Lebanon,Obstetrics,Reduced fetal movement,Low,Completed,No,Specialists,Intake,No,2026-05-14,None,Resolved,,Low,Telemedicine,18-40,180.0
+2025-11-09 04:54:00,WhatsApp,Female,Gaza,Trauma,Fever,Low,Pending,No,General,Follow-Up,No,2025-11-13,None,Referred,,Low,Telemedicine,41-64,540.0
+2026-01-06 23:57:00,WhatsApp,Male,Gaza,Mental Health,None,Medium,Completed,No,Specialists,Follow-Up,No,2026-01-14,None,Lost To Follow-Up,,Medium,Telemedicine,41-64,75.0
+2024-06-29 23:54:00,WhatsApp,Male,Gaza,Dermatology,None,Medium,Pending,No,Specialists,Active,Yes,2024-06-29,None,Referred,,High,Telemedicine,41-64,75.0
+2025-04-23 20:45:00,WhatsApp,Female,Gaza,Cardiovascular,BP >180/110,High,Completed,No,Volunteer,Closed,Yes,2025-05-03,None,Lost To Follow-Up,2025-05-16,Medium,Telemedicine,65+,37.0
+2025-08-25 18:02:00,WhatsApp,Male,Gaza,GI,Dehydration,Low,Pending,No,General,Closed,No,2025-09-13,None,Ongoing,2025-08-31,Low,Telemedicine,41-64,540.0
+2026-07-24 08:56:00,WhatsApp,Male,Gaza,Obstetrics,Reduced fetal movement,Medium,Completed,No,General,Closed,No,2026-07-27,None,Referred,2026-08-17,Medium,Telemedicine,18-40,12.0
+2024-05-08 10:37:00,WhatsApp,Male,Gaza,Cardiovascular,BP >180/110,Medium,Reviewed,No,Specialists,Closed,Yes,2024-05-19,None,Ongoing,2024-06-11,High,Telemedicine,18-40,75.0
+2025-11-25 22:57:00,WhatsApp,Female,Gaza,Obstetrics,Reduced fetal movement,Low,Reviewed,No,Specialists,Closed,No,2025-11-28,None,Ongoing,2025-12-15,Low,Telemedicine,41-64,540.0
+2024-06-01 12:46:00,WhatsApp,Male,Gaza,Respiratory,None,High,Reviewed,Yes,General,Active,Yes,2024-06-03,Level 3,Referred,,Medium,Telemedicine,18-40,75.0
+2026-06-01 21:00:00,Manual,Female,Gaza,Mental Health,None,Critical,Reviewed,No,General,Intake,No,2026-06-08,None,Ongoing,,Low,Telemedicine,41-64,12.0
+2026-04-11 16:49:00,WhatsApp,Female,Gaza,Dermatology,None,High,Reviewed,Yes,General,Closed,Yes,2026-04-12,Level 1,Resolved,2026-04-20,Medium,Telemedicine,0-17,180.0
+2024-07-05 23:12:00,WhatsApp,Male,Lebanon,Mental Health,None,Low,Completed,No,General,Closed,Yes,2024-07-07,None,Resolved,2024-07-19,Medium,Telemedicine,0-17,4.0
+2026-03-14 01:39:00,WhatsApp,Female,Gaza,GU,Flank pain,High,Pending,Yes,General,Active,No,2026-03-19,Level 3,Ongoing,,Medium,Telemedicine,41-64,75.0
+2025-08-30 21:48:00,Manual,Female,Syria,Mental Health,None,High,Completed,No,General,Active,Yes,2025-09-15,None,Lost To Follow-Up,,Low,Telemedicine,18-40,12.0
+2024-01-05 05:56:00,WhatsApp,Female,Gaza,Trauma,Fever,Critical,Completed,Yes,General,Closed,No,2024-01-11,Level 3,Ongoing,2024-01-06,Medium,Telemedicine,18-40,12.0
+2025-09-03 00:40:00,WhatsApp,Female,Gaza,Trauma,Fever,Critical,Reviewed,Yes,General,Closed,Yes,2025-09-23,Level 1,Improved,2025-10-04,Low,Telemedicine,18-40,12.0
+2025-08-22 23:08:00,Manual,Female,Syria,GU,Flank pain,High,Completed,Yes,General,Active,No,2025-09-10,Level 1,Resolved,,Low,Telemedicine,18-40,12.0
+2024-01-14 18:16:00,WhatsApp,Female,Gaza,Trauma,Fever,Low,Reviewed,No,Specialists,Closed,No,2024-01-16,None,Referred,2024-01-22,Low,Telemedicine,0-17,75.0
+2024-03-12 11:46:00,Manual,Female,Gaza,GU,Flank pain,Medium,Reviewed,No,Specialists,Follow-Up,Yes,2024-03-18,None,Lost To Follow-Up,,Medium,Telemedicine,65+,4.0
+2025-07-15 00:12:00,Slack,Male,Gaza,Trauma,Fever,Low,Reviewed,No,Volunteer,Closed,Yes,2025-07-18,None,Improved,2025-07-23,High,Telemedicine,41-64,75.0
+2024-06-15 08:33:00,WhatsApp,Female,Gaza,ENT,None,Low,Reviewed,No,General,Follow-Up,Yes,2024-06-19,None,Resolved,,Medium,Telemedicine,65+,37.0
+2026-01-08 23:28:00,WhatsApp,Male,Gaza,GU,Flank pain,Medium,Pending,No,General,Follow-Up,Yes,2026-01-19,None,Improved,,Medium,Telemedicine,41-64,75.0
+2024-02-26 21:14:00,WhatsApp,Female,Gaza,Mental Health,None,Medium,Reviewed,No,Volunteer,Closed,Yes,2024-03-08,None,Lost To Follow-Up,2024-03-05,High,Telemedicine,65+,540.0
+2025-07-20 16:51:00,Manual,Female,Lebanon,Cardiovascular,BP >180/110,High,Completed,No,General,Active,Yes,2025-07-23,None,Improved,,Low,Telemedicine,41-64,180.0
+2024-05-23 17:41:00,Manual,Male,Gaza,Obstetrics,Reduced fetal movement,Medium,Reviewed,No,General,Follow-Up,Yes,2024-06-11,None,Resolved,,Medium,Telemedicine,0-17,37.0
+2025-02-05 09:49:00,WhatsApp,Male,Gaza,GI,Dehydration,High,Pending,Yes,General,Active,Yes,2025-02-14,Level 1,Improved,,High,Telemedicine,41-64,37.0
+2024-04-23 21:18:00,WhatsApp,Male,Gaza,Respiratory,None,Medium,Reviewed,No,General,Active,Yes,2024-05-12,None,Ongoing,,Medium,Telemedicine,18-40,4.0
+2026-01-27 16:01:00,Slack,Male,Gaza,Respiratory,None,Low,Completed,No,Specialists,Active,Yes,2026-02-14,None,Lost To Follow-Up,,Low,Telemedicine,41-64,75.0
+2024-12-06 00:46:00,Manual,Female,Lebanon,Respiratory,Shortness of breath,Medium,Pending,No,General,Closed,Yes,2024-12-16,None,Ongoing,2025-01-12,Low,Telemedicine,41-64,540.0
+2024-01-23 20:47:00,WhatsApp,Female,Gaza,GU,Flank pain,High,Reviewed,Yes,General,Closed,Yes,2024-01-31,Level 1,Ongoing,2024-02-03,High,Telemedicine,41-64,540.0
+2024-08-07 14:39:00,Manual,Male,Lebanon,Respiratory,Shortness of breath,High,Completed,Yes,General,Follow-Up,No,2024-08-25,Level 3,Lost To Follow-Up,,Medium,Telemedicine,65+,12.0
+2024-01-31 06:00:00,Slack,Male,Gaza,Dermatology,None,Low,Completed,No,General,Closed,Yes,2024-02-20,None,Resolved,2024-02-10,High,Telemedicine,65+,540.0
+2026-04-07 07:51:00,Slack,Female,Gaza,Mental Health,None,High,Pending,Yes,General,Active,Yes,2026-04-13,Level 1,Referred,,High,Telemedicine,65+,180.0
+2024-12-10 00:18:00,Manual,Female,Lebanon,Dermatology,None,Medium,Pending,No,General,Intake,No,2024-12-23,None,Ongoing,,Medium,Telemedicine,0-17,37.0
+2024-02-18 12:13:00,Manual,Male,Gaza,ENT,None,Critical,Completed,No,Specialists,Closed,Yes,2024-03-08,None,Ongoing,2024-02-21,Medium,Telemedicine,65+,37.0
+2024-07-31 07:42:00,Manual,Female,Gaza,GI,Dehydration,High,Reviewed,Yes,General,Closed,Yes,2024-08-20,Level 2,Resolved,2024-09-07,High,Telemedicine,18-40,180.0
+2025-07-03 14:24:00,Manual,Male,Gaza,GU,Flank pain,Critical,Reviewed,No,Specialists,Closed,Yes,2025-07-12,None,Resolved,2025-07-13,High,Telemedicine,0-17,4.0
+2026-01-01 02:50:00,Manual,Male,Gaza,Dermatology,None,Low,Pending,No,Specialists,Active,Yes,2026-01-09,None,Ongoing,,Medium,Telemedicine,0-17,37.0
+2026-01-11 13:06:00,WhatsApp,Male,Syria,Cardiovascular,BP >180/110,Medium,Completed,No,General,Closed,No,2026-01-13,None,Lost To Follow-Up,2026-02-07,High,Telemedicine,18-40,540.0
+2024-10-24 10:55:00,Manual,Female,Gaza,Trauma,Fever,Medium,Pending,No,Specialists,Closed,No,2024-11-07,None,Lost To Follow-Up,2024-11-06,Low,Telemedicine,65+,4.0
+2025-01-08 17:42:00,WhatsApp,Male,Gaza,Respiratory,None,High,Pending,Yes,General,Active,Yes,2025-01-25,Level 3,Referred,,Low,Telemedicine,65+,37.0
+2026-03-25 22:04:00,WhatsApp,Male,Gaza,Dermatology,None,Critical,Reviewed,Yes,Specialists,Active,Yes,2026-04-03,Level 1,Improved,,Low,Telemedicine,18-40,180.0
+2024-02-28 07:11:00,Manual,Male,Gaza,ENT,None,Medium,Reviewed,No,General,Intake,No,2024-03-07,None,Lost To Follow-Up,,Low,Telemedicine,0-17,12.0
+2026-06-22 05:24:00,WhatsApp,Male,Syria,GU,Flank pain,Medium,Reviewed,No,Specialists,Closed,No,2026-07-05,None,Referred,2026-07-19,High,Telemedicine,18-40,180.0
+2024-05-26 08:04:00,WhatsApp,Male,Syria,GI,Dehydration,High,Reviewed,Yes,Specialists,Closed,No,2024-05-30,Level 1,Ongoing,2024-06-20,Medium,Telemedicine,41-64,4.0
+2025-10-26 14:31:00,Manual,Male,Gaza,Obstetrics,Reduced fetal movement,Low,Completed,No,General,Closed,No,2025-11-10,None,Referred,2025-12-01,Medium,Telemedicine,41-64,75.0
+2024-05-02 16:46:00,WhatsApp,Male,Gaza,GU,Flank pain,Medium,Pending,No,Specialists,Closed,Yes,2024-05-21,None,Resolved,2024-05-30,Medium,Telemedicine,65+,4.0
+2024-10-29 19:28:00,Manual,Female,Gaza,Trauma,Fever,Critical,Reviewed,Yes,Volunteer,Active,Yes,,Level 1,Resolved,,High,Telemedicine,0-17,180.0
+2024-12-15 17:43:00,Manual,Female,Gaza,Respiratory,None,Medium,Completed,No,Specialists,Closed,No,2024-12-16,None,Ongoing,2025-01-23,High,Telemedicine,65+,12.0
+2025-10-30 04:21:00,Manual,Female,Gaza,Cardiovascular,BP >180/110,Medium,Completed,No,Specialists,Active,Yes,,None,Referred,,Medium,Telemedicine,18-40,540.0
+2026-03-25 07:13:00,Manual,Male,Gaza,Respiratory,Shortness of breath,Medium,Reviewed,No,Specialists,Intake,Yes,,None,Improved,,Low,Telemedicine,65+,12.0
+2025-08-14 21:46:00,Manual,Male,Gaza,Mental Health,None,Medium,Completed,No,General,Intake,No,2025-08-21,None,Lost To Follow-Up,,Medium,Telemedicine,18-40,540.0
+2024-10-13 22:16:00,WhatsApp,Female,Gaza,Respiratory,Shortness of breath,High,Pending,Yes,General,Closed,Yes,2024-10-19,Level 2,Resolved,2024-10-24,Low,Telemedicine,18-40,540.0
+2025-11-29 00:40:00,Slack,Male,Lebanon,Respiratory,None,Medium,Reviewed,No,General,Closed,No,2025-12-17,None,Referred,2025-12-23,High,Telemedicine,65+,180.0
+2025-04-14 21:26:00,WhatsApp,Male,Gaza,Mental Health,None,Low,Pending,No,General,Closed,Yes,2025-04-15,None,Resolved,2025-04-21,Medium,Telemedicine,41-64,180.0
+2025-09-27 10:33:00,WhatsApp,Male,Gaza,GI,Dehydration,Medium,Pending,No,General,Follow-Up,No,2025-10-11,None,Improved,,High,Telemedicine,18-40,540.0
+2025-11-18 14:32:00,WhatsApp,Female,Gaza,Respiratory,Shortness of breath,Low,Pending,No,Volunteer,Active,No,2025-12-02,None,Improved,,High,Telemedicine,65+,12.0
+2024-03-10 05:52:00,Manual,Female,Gaza,Respiratory,None,Medium,Completed,No,General,Follow-Up,Yes,2024-03-24,None,Resolved,,High,Telemedicine,18-40,540.0
+2025-01-06 17:38:00,WhatsApp,Female,Syria,Respiratory,None,Medium,Pending,No,General,Closed,Yes,2025-01-24,None,Referred,2025-02-11,High,Telemedicine,0-17,4.0
+2025-08-31 23:51:00,WhatsApp,Female,Lebanon,Obstetrics,Reduced fetal movement,Medium,Completed,No,Specialists,Follow-Up,No,2025-09-13,None,Referred,,High,Telemedicine,65+,75.0
+2025-01-14 09:29:00,Slack,Female,Gaza,Trauma,Fever,Medium,Completed,No,General,Active,No,2025-01-15,None,Resolved,,Low,Telemedicine,18-40,75.0
+2024-08-28 10:13:00,Manual,Male,Syria,Respiratory,Shortness of breath,Medium,Reviewed,No,Volunteer,Closed,No,2024-09-06,None,Referred,2024-09-21,High,Telemedicine,18-40,12.0
+2026-06-25 06:09:00,Manual,Female,Gaza,Dermatology,None,Low,Pending,No,Specialists,Active,No,2026-07-14,None,Resolved,,Medium,Telemedicine,41-64,75.0
+2025-09-03 03:02:00,WhatsApp,Male,Gaza,GU,Flank pain,Medium,Completed,No,Volunteer,Active,Yes,2025-09-23,None,Ongoing,,Low,Telemedicine,41-64,180.0
+2024-01-23 15:28:00,WhatsApp,Female,Gaza,Cardiovascular,BP >180/110,High,Reviewed,Yes,General,Active,No,2024-01-30,Level 2,Ongoing,,Medium,Telemedicine,18-40,4.0
+2025-01-23 19:41:00,Slack,Male,Gaza,Trauma,Fever,High,Completed,Yes,General,Follow-Up,No,2025-01-30,Level 2,Resolved,,High,Telemedicine,18-40,540.0
+2025-10-17 09:57:00,Manual,Male,Gaza,Trauma,Fever,Low,Pending,No,Volunteer,Closed,No,2025-10-29,None,Referred,2025-11-21,Low,Telemedicine,41-64,180.0
+2025-10-01 10:07:00,WhatsApp,Female,Gaza,Dermatology,None,High,Reviewed,Yes,Volunteer,Active,No,2025-10-02,Level 1,Lost To Follow-Up,,Medium,Telemedicine,65+,180.0
+2025-11-19 06:55:00,WhatsApp,Male,Gaza,Mental Health,None,Low,Reviewed,No,Volunteer,Follow-Up,No,2025-12-04,None,Improved,,Low,Telemedicine,65+,4.0
+2024-03-12 12:58:00,Manual,Male,Gaza,Respiratory,None,Low,Pending,No,General,Intake,No,2024-03-25,None,Lost To Follow-Up,,High,Telemedicine,18-40,180.0
+2026-07-04 23:05:00,WhatsApp,Female,Gaza,Trauma,Fever,Low,Pending,No,Volunteer,Follow-Up,Yes,2026-07-20,None,Referred,,Medium,Telemedicine,0-17,540.0
+2026-03-05 05:11:00,WhatsApp,Female,Gaza,ENT,None,Low,Reviewed,No,Specialists,Closed,No,2026-03-20,None,Referred,2026-03-28,Medium,Telemedicine,0-17,180.0
+2026-04-04 06:53:00,WhatsApp,Male,Syria,Obstetrics,Reduced fetal movement,Low,Completed,No,General,Active,No,2026-04-12,None,Improved,,Low,Telemedicine,0-17,75.0
+2024-04-29 22:55:00,Manual,Female,Gaza,GI,Dehydration,Medium,Completed,No,Volunteer,Closed,No,2024-05-04,None,Referred,2024-05-31,High,Telemedicine,41-64,540.0
+2024-09-06 04:12:00,WhatsApp,Female,Syria,Mental Health,None,Medium,Pending,No,General,Active,Yes,,None,Improved,,High,Telemedicine,18-40,37.0
+2025-11-14 18:44:00,WhatsApp,Female,Gaza,Respiratory,Shortness of breath,Medium,Pending,No,Specialists,Active,Yes,2025-11-17,None,Resolved,,High,Telemedicine,41-64,37.0
+2024-02-14 15:34:00,WhatsApp,Female,Lebanon,GU,Flank pain,Medium,Pending,No,Specialists,Closed,Yes,2024-02-17,None,Lost To Follow-Up,2024-03-23,High,Telemedicine,41-64,4.0
+2024-11-15 03:39:00,WhatsApp,Male,Gaza,Respiratory,None,Low,Pending,No,General,Intake,Yes,2024-11-27,None,Ongoing,,Low,Telemedicine,18-40,12.0
+2024-01-17 19:16:00,Manual,Female,Gaza,Mental Health,None,High,Reviewed,Yes,General,Active,Yes,2024-01-18,Level 3,Resolved,,Medium,Telemedicine,18-40,540.0
+2024-05-04 17:01:00,WhatsApp,Male,Lebanon,Trauma,Fever,Medium,Pending,No,General,Active,No,2024-05-20,None,Resolved,,Low,Telemedicine,65+,12.0
+2025-10-02 21:51:00,Manual,Female,Lebanon,Dermatology,None,Medium,Pending,No,Specialists,Active,Yes,,None,Lost To Follow-Up,,Low,Telemedicine,65+,37.0
+2025-10-28 18:06:00,WhatsApp,Female,Syria,ENT,None,High,Pending,Yes,Volunteer,Closed,Yes,2025-11-10,Level 2,Referred,2025-11-05,Medium,Telemedicine,41-64,4.0
+2025-03-20 13:20:00,Manual,Female,Syria,Trauma,Fever,Medium,Reviewed,No,Specialists,Active,Yes,2025-03-26,None,Ongoing,,Low,Telemedicine,18-40,12.0
+2026-03-14 14:03:00,WhatsApp,Male,Gaza,Respiratory,None,Medium,Completed,No,General,Closed,No,2026-03-18,None,Improved,2026-04-01,Low,Telemedicine,65+,180.0
+2026-05-09 08:35:00,WhatsApp,Female,Gaza,GI,Dehydration,High,Completed,Yes,Specialists,Active,No,2026-05-29,Level 3,Referred,,Low,Telemedicine,18-40,75.0
+2024-01-23 03:02:00,WhatsApp,Female,Gaza,Mental Health,None,Medium,Completed,No,General,Intake,Yes,2024-02-04,None,Lost To Follow-Up,,High,Telemedicine,41-64,75.0
+2026-05-03 19:37:00,Manual,Male,Gaza,Mental Health,None,Medium,Completed,No,Specialists,Closed,Yes,2026-05-12,None,Ongoing,2026-05-22,Medium,Telemedicine,18-40,75.0
+2024-08-22 23:16:00,Slack,Male,Lebanon,Trauma,Fever,Medium,Reviewed,No,Volunteer,Active,No,2024-08-27,None,Ongoing,,Low,Telemedicine,65+,4.0
+2024-06-04 20:54:00,WhatsApp,Male,Gaza,Cardiovascular,BP >180/110,Medium,Reviewed,No,General,Closed,Yes,2024-06-19,None,Referred,2024-06-13,High,Telemedicine,65+,540.0
+2024-09-05 21:47:00,Manual,Male,Gaza,Dermatology,None,Medium,Completed,No,General,Intake,Yes,2024-09-25,None,Improved,,Medium,Telemedicine,18-40,37.0
+2025-12-27 07:12:00,Manual,Female,Gaza,Trauma,Fever,Critical,Pending,Yes,General,Follow-Up,No,2026-01-10,Level 1,Ongoing,,High,Telemedicine,41-64,4.0
+2025-09-22 12:51:00,WhatsApp,Male,Gaza,GU,Flank pain,Low,Completed,No,General,Active,Yes,2025-09-22,None,Ongoing,,Medium,Telemedicine,65+,540.0
+2025-05-05 16:55:00,WhatsApp,Male,Gaza,Obstetrics,Reduced fetal movement,Medium,Completed,No,General,Closed,No,2025-05-17,None,Lost To Follow-Up,2025-06-09,Medium,Telemedicine,41-64,180.0
+2024-09-30 11:12:00,WhatsApp,Female,Lebanon,Cardiovascular,BP >180/110,Medium,Completed,No,Specialists,Closed,Yes,2024-10-06,None,Lost To Follow-Up,2024-10-24,Medium,Telemedicine,18-40,180.0
+2026-06-18 20:56:00,Manual,Female,Syria,Dermatology,None,Medium,Completed,No,General,Active,Yes,2026-06-23,None,Improved,,High,Telemedicine,65+,180.0
+2026-02-24 09:17:00,WhatsApp,Male,Gaza,Mental Health,None,Low,Pending,No,Specialists,Active,Yes,2026-03-08,None,Ongoing,,Medium,Telemedicine,18-40,75.0
+2024-06-29 04:12:00,WhatsApp,Female,Gaza,Cardiovascular,BP >180/110,Medium,Completed,No,General,Closed,Yes,2024-07-01,None,Resolved,2024-07-13,Low,Telemedicine,65+,180.0
+2024-04-29 14:59:00,WhatsApp,Female,Lebanon,Respiratory,Shortness of breath,Medium,Reviewed,No,General,Active,Yes,2024-04-29,None,Ongoing,,High,Telemedicine,65+,37.0
+2026-06-29 19:07:00,WhatsApp,Male,Gaza,Respiratory,Shortness of breath,High,Reviewed,No,General,Closed,Yes,2026-07-07,None,Resolved,2026-07-03,High,Telemedicine,41-64,180.0
+2024-05-29 04:39:00,Manual,Female,Gaza,Cardiovascular,BP >180/110,Medium,Pending,No,Volunteer,Closed,Yes,2024-06-01,None,Ongoing,2024-07-06,Medium,Telemedicine,65+,75.0
+2025-09-01 05:33:00,WhatsApp,Male,Lebanon,Dermatology,None,Low,Completed,No,General,Closed,Yes,2025-09-01,None,Referred,2025-09-23,Low,Telemedicine,41-64,4.0
+2024-07-08 21:46:00,WhatsApp,Female,Syria,Obstetrics,Reduced fetal movement,Low,Reviewed,No,General,Closed,Yes,2024-07-22,None,Lost To Follow-Up,2024-07-21,High,Telemedicine,0-17,540.0
+2026-05-15 01:36:00,Slack,Male,Lebanon,Cardiovascular,BP >180/110,Critical,Pending,Yes,Specialists,Active,Yes,2026-05-24,Level 1,Lost To Follow-Up,,Medium,Telemedicine,41-64,4.0
+2025-08-15 08:32:00,Slack,Female,Gaza,Trauma,Fever,Medium,Reviewed,No,General,Follow-Up,No,2025-08-19,None,Improved,,Medium,Telemedicine,41-64,540.0
+2024-02-25 11:00:00,Slack,Male,Gaza,Cardiovascular,BP >180/110,Medium,Completed,No,General,Closed,No,2024-02-28,None,Lost To Follow-Up,2024-03-10,Medium,Telemedicine,0-17,12.0
+2024-03-25 10:50:00,WhatsApp,Male,Lebanon,Mental Health,None,Medium,Completed,No,General,Intake,Yes,2024-04-03,None,Improved,,Medium,Telemedicine,18-40,540.0
+2025-02-11 05:27:00,WhatsApp,Male,Gaza,GI,Dehydration,Medium,Completed,No,Specialists,Closed,No,2025-02-17,None,Ongoing,2025-03-10,Medium,Telemedicine,65+,180.0
+2026-04-16 11:26:00,WhatsApp,Female,Lebanon,Respiratory,Shortness of breath,Low,Reviewed,No,Specialists,Closed,Yes,2026-04-18,None,Ongoing,2026-05-02,Medium,Telemedicine,41-64,4.0
+2024-06-30 23:33:00,WhatsApp,Female,Gaza,GU,Flank pain,Medium,Reviewed,No,Volunteer,Closed,No,,None,Resolved,2024-07-12,Low,Telemedicine,65+,12.0
+2024-12-23 06:29:00,WhatsApp,Female,Lebanon,Respiratory,Shortness of breath,High,Pending,Yes,Volunteer,Active,Yes,2025-01-09,Level 2,Lost To Follow-Up,,Medium,Telemedicine,18-40,4.0
+2025-06-15 08:26:00,WhatsApp,Female,Gaza,Dermatology,None,Low,Pending,No,General,Active,Yes,,None,Lost To Follow-Up,,Low,Telemedicine,0-17,180.0
+2025-12-10 19:01:00,WhatsApp,Male,Lebanon,Trauma,Fever,High,Reviewed,Yes,Volunteer,Follow-Up,Yes,2025-12-16,Level 2,Resolved,,High,Telemedicine,0-17,540.0
+2026-02-10 09:36:00,Manual,Male,Gaza,Obstetrics,Reduced fetal movement,High,Pending,Yes,Volunteer,Closed,No,2026-02-10,Level 2,Ongoing,2026-03-04,Medium,Telemedicine,18-40,540.0
+2025-09-20 20:58:00,WhatsApp,Female,Gaza,Trauma,Fever,Low,Completed,No,General,Closed,Yes,2025-09-29,None,Referred,2025-10-07,High,Telemedicine,0-17,540.0
+2024-10-15 03:59:00,WhatsApp,Male,Lebanon,Respiratory,Shortness of breath,Low,Completed,No,Specialists,Follow-Up,No,2024-11-02,None,Resolved,,Medium,Telemedicine,18-40,37.0
+2024-10-04 02:51:00,WhatsApp,Female,Lebanon,Respiratory,Shortness of breath,Medium,Completed,No,Specialists,Closed,Yes,,None,Improved,2024-10-25,Low,Telemedicine,65+,75.0
+2025-06-16 05:06:00,WhatsApp,Male,Gaza,Mental Health,None,High,Pending,Yes,General,Intake,No,2025-07-01,Level 1,Lost To Follow-Up,,Low,Telemedicine,41-64,75.0
+2025-08-25 18:03:00,Slack,Female,Lebanon,Obstetrics,Reduced fetal movement,Medium,Pending,No,General,Intake,Yes,2025-09-07,None,Referred,,High,Telemedicine,41-64,75.0
+2025-05-30 06:32:00,WhatsApp,Male,Lebanon,Mental Health,None,Medium,Completed,No,General,Closed,No,2025-06-14,None,Lost To Follow-Up,2025-06-23,High,Telemedicine,18-40,75.0
+2025-09-20 19:13:00,WhatsApp,Female,Lebanon,GU,Flank pain,High,Pending,Yes,Specialists,Active,Yes,2025-10-05,Level 2,Improved,,High,Telemedicine,41-64,540.0
+2024-10-28 21:38:00,WhatsApp,Female,Gaza,Respiratory,Shortness of breath,Low,Pending,No,General,Follow-Up,No,2024-11-10,None,Resolved,,Low,Telemedicine,18-40,12.0
+2024-12-15 06:01:00,Manual,Male,Gaza,Trauma,Fever,Medium,Pending,No,General,Closed,Yes,,None,Referred,2024-12-28,Medium,Telemedicine,18-40,37.0
+2024-05-31 11:15:00,Manual,Female,Syria,Trauma,Fever,Medium,Completed,No,General,Closed,No,,None,Resolved,2024-06-06,Low,Telemedicine,65+,540.0
+2025-07-13 09:12:00,Manual,Male,Gaza,Trauma,Fever,Medium,Reviewed,No,General,Active,No,2025-07-23,None,Lost To Follow-Up,,High,Telemedicine,18-40,4.0
+2025-01-18 18:46:00,WhatsApp,Female,Gaza,Cardiovascular,BP >180/110,Medium,Completed,No,Specialists,Closed,Yes,2025-02-04,None,Ongoing,2025-02-21,High,Telemedicine,18-40,540.0
+2024-09-25 02:17:00,WhatsApp,Female,Lebanon,Obstetrics,Reduced fetal movement,Medium,Reviewed,No,General,Closed,No,2024-10-14,None,Lost To Follow-Up,2024-10-05,Medium,Telemedicine,41-64,12.0
+2026-06-03 16:26:00,Slack,Male,Gaza,GI,Dehydration,Medium,Completed,No,General,Follow-Up,Yes,2026-06-16,None,Ongoing,,Medium,Telemedicine,41-64,4.0
+2025-11-06 07:21:00,WhatsApp,Male,Gaza,Dermatology,None,Low,Completed,No,General,Active,No,2025-11-19,None,Ongoing,,Low,Telemedicine,41-64,4.0
+2025-11-18 00:27:00,WhatsApp,Male,Gaza,GI,Dehydration,Low,Reviewed,No,General,Follow-Up,Yes,2025-11-25,None,Ongoing,,High,Telemedicine,18-40,4.0
+2025-11-03 14:04:00,WhatsApp,Female,Syria,Trauma,Fever,Low,Completed,No,Specialists,Follow-Up,Yes,2025-11-23,None,Referred,,Low,Telemedicine,18-40,37.0
+2024-09-06 04:32:00,Manual,Male,Lebanon,GU,Flank pain,High,Reviewed,Yes,Specialists,Closed,No,2024-09-23,Level 2,Referred,2024-09-09,Medium,Telemedicine,18-40,12.0
+2024-12-07 23:56:00,WhatsApp,Male,Lebanon,Respiratory,Shortness of breath,Medium,Pending,No,Specialists,Closed,Yes,2024-12-20,None,Ongoing,2024-12-30,High,Telemedicine,65+,180.0
+2026-01-04 18:18:00,Slack,Male,Gaza,Mental Health,None,Medium,Pending,No,Volunteer,Follow-Up,No,2026-01-15,None,Referred,,Low,Telemedicine,65+,37.0
+2024-10-06 05:22:00,WhatsApp,Male,Syria,Dermatology,None,Critical,Pending,No,General,Follow-Up,No,2024-10-17,None,Referred,,Medium,Telemedicine,18-40,180.0
+2025-12-01 18:35:00,WhatsApp,Male,Lebanon,Obstetrics,Reduced fetal movement,Medium,Completed,No,Volunteer,Active,Yes,2025-12-08,None,Ongoing,,Low,Telemedicine,41-64,12.0
+2024-10-01 17:47:00,WhatsApp,Male,Lebanon,Trauma,Fever,Low,Completed,No,Specialists,Closed,No,2024-10-03,None,Lost To Follow-Up,2024-10-13,Low,Telemedicine,18-40,540.0
+2025-09-18 13:39:00,WhatsApp,Female,Gaza,ENT,None,Low,Pending,No,Specialists,Active,No,2025-10-07,None,Referred,,Medium,Telemedicine,0-17,180.0
+2026-03-18 21:11:00,Slack,Male,Gaza,Cardiovascular,BP >180/110,Low,Completed,No,Specialists,Follow-Up,Yes,2026-03-20,None,Improved,,Low,Telemedicine,41-64,180.0
+2024-10-25 18:48:00,WhatsApp,Female,Gaza,GU,Flank pain,High,Reviewed,Yes,General,Intake,No,2024-11-02,Level 3,Resolved,,Medium,Telemedicine,65+,540.0
+2024-08-31 22:36:00,Slack,Male,Gaza,GU,Flank pain,Medium,Pending,No,General,Intake,Yes,2024-09-10,None,Resolved,,Medium,Telemedicine,18-40,540.0
+2024-02-18 09:48:00,WhatsApp,Male,Gaza,Cardiovascular,BP >180/110,Medium,Pending,No,General,Active,No,2024-03-07,None,Lost To Follow-Up,,Medium,Telemedicine,65+,4.0
+2026-07-25 00:48:00,WhatsApp,Male,Gaza,Dermatology,None,Medium,Pending,No,Volunteer,Active,Yes,2026-08-07,None,Ongoing,,Medium,Telemedicine,41-64,37.0
+2026-02-10 04:39:00,WhatsApp,Male,Gaza,Respiratory,Shortness of breath,Medium,Pending,No,Specialists,Closed,Yes,2026-03-02,None,Improved,2026-02-15,High,Telemedicine,18-40,540.0
+2024-03-13 15:49:00,Manual,Female,Gaza,GU,Flank pain,Critical,Pending,Yes,Volunteer,Closed,No,2024-03-23,Level 1,Improved,2024-04-21,High,Telemedicine,18-40,180.0
+2024-04-08 05:38:00,Manual,Male,Gaza,Respiratory,Shortness of breath,High,Pending,Yes,Volunteer,Follow-Up,No,2024-04-28,Level 1,Referred,,High,Telemedicine,18-40,540.0
+2026-02-21 14:30:00,WhatsApp,Male,Gaza,Respiratory,None,Medium,Reviewed,No,Specialists,Active,Yes,,None,Improved,,Low,Telemedicine,65+,12.0
+2024-02-27 03:57:00,WhatsApp,Female,Syria,Trauma,Fever,Low,Reviewed,No,Specialists,Active,No,2024-03-12,None,Lost To Follow-Up,,Medium,Telemedicine,0-17,4.0
+2025-12-13 02:12:00,WhatsApp,Female,Gaza,Obstetrics,Reduced fetal movement,Critical,Completed,Yes,Specialists,Follow-Up,Yes,2025-12-26,Level 2,Improved,,Medium,Telemedicine,0-17,4.0
+2026-06-22 23:00:00,WhatsApp,Male,Gaza,GU,Flank pain,High,Pending,Yes,Specialists,Follow-Up,No,2026-07-11,Level 2,Improved,,Low,Telemedicine,65+,12.0
+2024-11-29 17:43:00,WhatsApp,Male,Syria,ENT,None,Low,Reviewed,No,Volunteer,Closed,Yes,2024-12-05,None,Ongoing,2024-12-25,High,Telemedicine,0-17,180.0
+2025-08-15 20:31:00,WhatsApp,Male,Gaza,Mental Health,None,Medium,Completed,No,Specialists,Closed,No,,None,Referred,2025-09-18,High,Telemedicine,0-17,180.0
+2025-03-22 19:31:00,WhatsApp,Male,Lebanon,GU,Flank pain,Medium,Reviewed,No,Specialists,Active,No,2025-04-10,None,Lost To Follow-Up,,Medium,Telemedicine,41-64,180.0
+2024-06-04 09:38:00,WhatsApp,Female,Gaza,Dermatology,None,Medium,Pending,No,General,Closed,Yes,2024-06-21,None,Resolved,2024-07-02,Low,Telemedicine,41-64,75.0
+2024-07-12 20:44:00,WhatsApp,Female,Gaza,Cardiovascular,BP >180/110,Medium,Reviewed,No,Specialists,Follow-Up,No,2024-07-26,None,Referred,,Low,Telemedicine,65+,75.0
+2024-01-23 11:56:00,WhatsApp,Female,Gaza,Obstetrics,Reduced fetal movement,Low,Reviewed,No,General,Closed,No,2024-01-23,None,Referred,2024-01-25,High,Telemedicine,65+,37.0
+2024-06-05 21:36:00,Manual,Male,Gaza,Respiratory,None,Critical,Pending,Yes,Specialists,Follow-Up,Yes,2024-06-14,Level 1,Lost To Follow-Up,,Low,Telemedicine,41-64,180.0
+2025-04-07 11:26:00,Manual,Female,Gaza,ENT,None,Medium,Completed,No,Specialists,Closed,Yes,2025-04-17,None,Improved,2025-05-10,Medium,Telemedicine,18-40,180.0
+2024-09-22 02:34:00,WhatsApp,Female,Gaza,Mental Health,None,High,Completed,Yes,General,Follow-Up,Yes,2024-09-30,Level 2,Resolved,,High,Telemedicine,18-40,180.0
+2025-07-29 09:04:00,Manual,Male,Gaza,Dermatology,None,Low,Completed,No,General,Intake,Yes,2025-08-12,None,Referred,,High,Telemedicine,41-64,12.0
+2024-12-11 04:23:00,Manual,Female,Gaza,GI,Dehydration,Medium,Pending,No,Volunteer,Closed,Yes,2024-12-29,None,Lost To Follow-Up,2025-01-19,Medium,Telemedicine,65+,180.0
+2024-09-12 19:26:00,Slack,Female,Gaza,Cardiovascular,BP >180/110,Critical,Completed,Yes,General,Closed,No,2024-09-19,Level 1,Lost To Follow-Up,2024-10-06,Low,Telemedicine,18-40,75.0
+2024-02-09 03:00:00,WhatsApp,Male,Syria,GU,Flank pain,High,Pending,Yes,Specialists,Closed,No,2024-02-12,Level 1,Lost To Follow-Up,2024-02-16,High,Telemedicine,41-64,540.0
+2025-11-23 12:00:00,WhatsApp,Female,Gaza,Respiratory,None,Low,Completed,No,General,Closed,Yes,2025-11-24,None,Lost To Follow-Up,2026-01-01,Medium,Telemedicine,41-64,37.0
+2026-03-10 07:26:00,WhatsApp,Male,Syria,Trauma,Fever,Low,Reviewed,No,General,Active,Yes,2026-03-26,None,Improved,,Low,Telemedicine,65+,4.0
+2024-03-06 23:10:00,WhatsApp,Male,Gaza,Cardiovascular,BP >180/110,Low,Reviewed,No,Volunteer,Follow-Up,Yes,2024-03-09,None,Improved,,High,Telemedicine,41-64,540.0
+2025-03-22 22:12:00,WhatsApp,Female,Syria,Cardiovascular,BP >180/110,High,Pending,Yes,Volunteer,Follow-Up,Yes,2025-03-26,Level 3,Ongoing,,Medium,Telemedicine,41-64,540.0
+2025-07-17 05:59:00,WhatsApp,Female,Gaza,ENT,None,Medium,Pending,No,Volunteer,Closed,No,2025-08-04,None,Improved,2025-08-11,Low,Telemedicine,18-40,180.0
+2025-06-09 22:55:00,WhatsApp,Male,Gaza,Dermatology,None,Medium,Completed,No,Specialists,Follow-Up,No,2025-06-09,None,Ongoing,,Medium,Telemedicine,65+,4.0
+2025-06-23 19:57:00,Manual,Female,Gaza,Dermatology,None,Medium,Completed,No,Specialists,Closed,No,2025-07-04,None,Referred,2025-07-22,High,Telemedicine,65+,540.0
+2025-01-12 19:21:00,WhatsApp,Female,Gaza,Obstetrics,Reduced fetal movement,High,Completed,Yes,General,Follow-Up,No,2025-01-21,Level 3,Referred,,High,Telemedicine,18-40,37.0
+2025-03-12 00:58:00,Manual,Female,Gaza,Respiratory,Shortness of breath,High,Pending,Yes,Specialists,Active,No,2025-03-16,Level 2,Ongoing,,Medium,Telemedicine,65+,4.0
+2025-11-24 06:55:00,Manual,Male,Lebanon,Cardiovascular,BP >180/110,Medium,Pending,No,Volunteer,Active,No,2025-12-06,None,Resolved,,Medium,Telemedicine,41-64,12.0
+2026-06-13 05:04:00,Manual,Male,Gaza,GI,Dehydration,High,Reviewed,Yes,Specialists,Closed,No,2026-06-27,Level 1,Improved,2026-06-14,Medium,Telemedicine,18-40,4.0
+2024-09-24 08:33:00,Manual,Female,Gaza,GU,Flank pain,Medium,Pending,No,Specialists,Intake,Yes,2024-10-13,None,Lost To Follow-Up,,Medium,Telemedicine,18-40,180.0
+2025-07-17 07:21:00,WhatsApp,Female,Lebanon,Dermatology,None,Low,Reviewed,No,General,Closed,No,2025-08-03,None,Improved,2025-07-21,Medium,Telemedicine,41-64,75.0
+2024-07-03 01:24:00,Manual,Female,Gaza,Respiratory,None,Medium,Reviewed,No,General,Closed,No,2024-07-18,None,Referred,2024-07-04,Medium,Telemedicine,41-64,37.0
+2026-02-24 15:20:00,Slack,Male,Gaza,Obstetrics,Reduced fetal movement,Critical,Reviewed,Yes,General,Active,No,2026-03-05,Level 1,Ongoing,,High,Telemedicine,0-17,12.0
+2026-02-01 08:23:00,Slack,Female,Gaza,Mental Health,None,High,Reviewed,Yes,General,Closed,Yes,,Level 2,Ongoing,2026-03-13,Low,Telemedicine,0-17,4.0
+2024-02-18 17:28:00,WhatsApp,Female,Syria,GI,Dehydration,Low,Pending,No,Volunteer,Closed,Yes,2024-02-19,None,Lost To Follow-Up,2024-03-14,High,Telemedicine,65+,540.0
+2024-04-16 18:23:00,WhatsApp,Male,Lebanon,Respiratory,None,Medium,Reviewed,No,General,Closed,Yes,2024-04-20,None,Referred,2024-05-11,Medium,Telemedicine,0-17,37.0
+2024-02-05 06:32:00,WhatsApp,Male,Gaza,Respiratory,None,Medium,Completed,No,General,Active,No,2024-02-14,None,Resolved,,Medium,Telemedicine,0-17,75.0
+2026-07-25 15:13:00,Slack,Female,Syria,GU,Flank pain,Low,Completed,No,General,Follow-Up,No,2026-08-06,None,Ongoing,,Medium,Telemedicine,41-64,4.0
+2025-05-18 22:39:00,Manual,Male,Gaza,Respiratory,Shortness of breath,Critical,Reviewed,No,General,Closed,No,,None,Resolved,2025-05-22,High,Telemedicine,18-40,540.0
+2025-07-28 02:44:00,Slack,Female,Gaza,Trauma,Fever,Low,Reviewed,No,General,Closed,No,2025-07-29,None,Improved,2025-08-11,Medium,Telemedicine,0-17,540.0
+2025-01-06 04:31:00,WhatsApp,Female,Gaza,Mental Health,None,Medium,Pending,No,Specialists,Follow-Up,Yes,2025-01-07,None,Resolved,,Low,Telemedicine,41-64,540.0
+2026-04-19 23:00:00,WhatsApp,Female,Gaza,Mental Health,None,Medium,Reviewed,No,Specialists,Closed,Yes,2026-04-23,None,Ongoing,2026-04-27,Low,Telemedicine,41-64,540.0
+2026-01-02 04:50:00,Manual,Female,Lebanon,Respiratory,None,Low,Pending,No,Volunteer,Closed,No,2026-01-21,None,Resolved,2026-02-03,High,Telemedicine,18-40,540.0
+2026-07-07 05:21:00,WhatsApp,Male,Gaza,ENT,None,Low,Reviewed,No,General,Active,No,2026-07-17,None,Improved,,Low,Telemedicine,0-17,180.0
+2024-04-10 06:21:00,WhatsApp,Female,Gaza,GU,Flank pain,Medium,Reviewed,No,General,Active,No,2024-04-30,None,Ongoing,,Medium,Telemedicine,18-40,12.0
+2024-02-14 07:33:00,Manual,Female,Gaza,Respiratory,None,Medium,Pending,No,Specialists,Closed,No,2024-02-24,None,Improved,2024-02-26,High,Telemedicine,65+,540.0
+2024-07-09 05:20:00,Slack,Male,Gaza,ENT,None,Critical,Reviewed,Yes,General,Active,Yes,2024-07-19,Level 3,Referred,,Low,Telemedicine,0-17,12.0
+2024-05-27 11:19:00,Manual,Male,Lebanon,Cardiovascular,BP >180/110,Medium,Reviewed,No,General,Intake,Yes,2024-05-29,None,Lost To Follow-Up,,Medium,Telemedicine,0-17,37.0
+2024-10-04 14:15:00,Slack,Male,Gaza,GI,Dehydration,Critical,Completed,Yes,General,Closed,Yes,2024-10-19,Level 1,Lost To Follow-Up,2024-10-18,Medium,Telemedicine,41-64,540.0

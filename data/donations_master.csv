@@ -1,0 +1,80 @@
+date,amount,channel,source_file
+2024-05-16,5.0,DonorBox,OBA_Donations
+2024-05-16,8.0,DonorBox,OBA_Donations
+2024-05-16,104.54,DonorBox,OBA_Donations
+2024-05-27,10.0,DonorBox,OBA_Donations
+2024-05-28,20.0,DonorBox,OBA_Donations
+2024-06-06,52.37,DonorBox,OBA_Donations
+2024-06-07,3.0,DonorBox,OBA_Donations
+2024-06-12,15.0,DonorBox,OBA_Donations
+2024-06-16,3.0,DonorBox,OBA_Donations
+2024-06-17,26.34,DonorBox,OBA_Donations
+2024-07-07,20.0,DonorBox,OBA_Donations
+2024-07-07,25.0,DonorBox,OBA_Donations
+2024-07-07,10.0,DonorBox,OBA_Donations
+2024-07-07,10.0,DonorBox,OBA_Donations
+2024-07-09,20.0,DonorBox,OBA_Donations
+2024-08-07,20.0,DonorBox,OBA_Donations
+2024-09-07,20.0,DonorBox,OBA_Donations
+2024-10-07,20.0,DonorBox,OBA_Donations
+2024-10-16,166.73,DonorBox,OBA_Donations
+2024-11-07,100.0,DonorBox,OBA_Donations
+2024-12-07,100.0,DonorBox,OBA_Donations
+2024-12-14,21.29,DonorBox,OBA_Donations
+2024-12-16,14.0,DonorBox,OBA_Donations
+2024-12-18,10.9,DonorBox,OBA_Donations
+2024-12-20,4.0,DonorBox,OBA_Donations
+2025-01-06,500.0,DonorBox,OBA_Donations
+2025-01-07,29.6,DonorBox,OBA_Donations
+2025-01-09,21.13,DonorBox,OBA_Donations
+2025-01-14,20.0,DonorBox,OBA_Donations
+2025-01-26,42.09,DonorBox,OBA_Donations
+2025-01-26,300.0,DonorBox,OBA_Donations
+2025-01-26,104.56,DonorBox,OBA_Donations
+2025-01-26,312.79,DonorBox,OBA_Donations
+2025-01-29,21.13,DonorBox,OBA_Donations
+2025-02-02,5000.0,DonorBox,OBA_Donations
+2025-03-04,21.27,DonorBox,OBA_Donations
+2025-03-05,26.34,DonorBox,OBA_Donations
+2025-03-07,52.37,DonorBox,OBA_Donations
+2025-03-12,208.54,DonorBox,OBA_Donations
+2025-03-28,125.25,DonorBox,OBA_Donations
+2025-04-03,10.75,DonorBox,OBA_Donations
+2025-05-07,58.88,DonorBox,OBA_Donations
+2025-06-07,58.88,DonorBox,OBA_Donations
+2025-07-07,58.88,DonorBox,OBA_Donations
+2025-08-07,58.88,DonorBox,OBA_Donations
+2025-09-07,58.88,DonorBox,OBA_Donations
+2025-09-14,1044.16,DonorBox,OBA_Donations
+2025-10-07,58.88,DonorBox,OBA_Donations
+2025-11-07,58.88,DonorBox,OBA_Donations
+2025-12-07,58.88,DonorBox,OBA_Donations
+2026-01-07,58.88,DonorBox,OBA_Donations
+2026-03-10,9.67,DonorBox,OBA_Donations
+2026-07-28,104.7,DonorBox,OBA_Donations
+2026-07-28,52.59,DonorBox,OBA_Donations
+2026-07-28,20.0,DonorBox,OBA_Donations
+,28559.07,GoFundMe,BrooksIndividualFundraisers
+,13311.56,GoFundMe,BrooksIndividualFundraisers
+,366.64,Unknown,BrooksIndividualFundraisers
+,13656.78,GoFundMe,BrooksIndividualFundraisers
+,26135.19,GoFundMe,BrooksIndividualFundraisers
+,8117.11,PayPal,BrooksIndividualFundraisers
+,23185.33,GoFundMe,BrooksIndividualFundraisers
+,35085.0,Unknown,BrooksIndividualFundraisers
+,7053.37,GoFundMe,BrooksIndividualFundraisers
+,15670.22,GoFundMe,BrooksIndividualFundraisers
+,248.23,Unknown,BrooksIndividualFundraisers
+,79.78,Unknown,BrooksIndividualFundraisers
+2025-01-26,1000.0,E-transfer to our bank,DonorsPaliNightFund
+2025-01-26,100.0,E-transfer to our bank,DonorsPaliNightFund
+2025-01-26,3000.0,E-transfer to our bank,DonorsPaliNightFund
+2025-01-27,1000.0,E-transfer to our bank,DonorsPaliNightFund
+2025-01-27,2000.0,E-transfer to our bank,DonorsPaliNightFund
+2025-01-26,300.0,DonorBox,DonorsPaliNightFund
+2025-01-26,104.56,DonorBox,DonorsPaliNightFund
+2025-01-26,300.0,DonorBox,DonorsPaliNightFund
+2025-01-26,42.09,DonorBox,DonorsPaliNightFund
+2025-01-28,3000.0,E-transfer to our bank,DonorsPaliNightFund
+2025-01-29,1000.0,E-transfer to our bank,DonorsPaliNightFund
+2025-01-29,500.0,E-transfer to our bank,DonorsPaliNightFund

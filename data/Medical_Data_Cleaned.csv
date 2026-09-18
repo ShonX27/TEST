@@ -1,0 +1,408 @@
+Priority,Source,Status,Boost Status,Start date,Aging Days,Service Req,Family with Children,Source Sheet
+Not specified,Form Intake,Not specified,Not specified,2024-01-05 00:00:00.000,10.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-02-05 00:00:00.000,9.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-02-05 00:00:00.000,9.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-02-05 00:00:00.000,9.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-02-05 00:00:00.000,8.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-02-05 00:00:00.000,8.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-05 00:00:00.000,8.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-05 00:00:00.000,8.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-05 00:00:00.000,8.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-05 00:00:00.000,8.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-05 00:00:00.000,8.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-05 00:00:00.000,7.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-05 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-05 00:00:00.000,7.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-05 00:00:00.000,6.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-05 00:00:00.000,6.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-05 00:00:00.000,6.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-05 00:00:00.000,6.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-05 00:00:00.000,6.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-05 00:00:00.000,6.0,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-05 00:00:00.000,6.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-05 00:00:00.000,5.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-05 00:00:00.000,5.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-05 00:00:00.000,5.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-05 00:00:00.000,5.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-05 00:00:00.000,5.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-05 00:00:00.000,5.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-06-05 00:00:00.000,5.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-06-05 00:00:00.000,5.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-06-05 00:00:00.000,5.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-06-05 00:00:00.000,5.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-06-05 00:00:00.000,5.0,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-06-05 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-05 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-05 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-05 00:00:00.000,4.0,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-05 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-05 00:00:00.000,4.0,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-05 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-05 00:00:00.000,3.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-08-05 00:00:00.000,3.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-08-05 00:00:00.000,3.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-08-05 00:00:00.000,3.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-08-05 00:00:00.000,3.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-08-05 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-09-05 00:00:00.000,1.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-09-05 00:00:00.000,1.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-09-05 00:00:00.000,1.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-09-05 00:00:00.000,1.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-09-05 00:00:00.000,1.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-10-05 00:00:00.000,1.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-10-05 00:00:00.000,1.0,Urgent Medical Needs,Yes,Medical Intake
+High,Assignement Tracker,Verifed,Not specified,2024-04-01 00:00:00.000,108.0,Urgent Medical Needs,No,Medical Intake
+High,Assignement Tracker,Not started,Not Started,2024-04-01 00:00:00.000,108.0,Medical Follow-Up,No,Medical Intake
+Not specified,Assignement Tracker,Not started,Not Started,2024-04-01 00:00:00.000,108.0,Medical Follow-Up,No,Medical Intake
+High,Assignement Tracker,Not started,Not Started,2024-04-01 00:00:00.000,108.0,Urgent Medical Needs,Yes,Medical Intake
+High,Assignement Tracker,Not started,Not Started,2024-04-01 00:00:00.000,108.0,Medical Follow-Up,No,Medical Intake
+High,Assignement Tracker,Not started,Not Started,2024-04-01 00:00:00.000,108.0,Urgent Medical Needs,No,Medical Intake
+High,Assignement Tracker,Not started,Not Started,2024-04-01 00:00:00.000,108.0,Urgent Medical Needs,No,Medical Intake
+High,Assignement Tracker,Not started,Not Started,2024-04-01 00:00:00.000,108.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Assignement Tracker,Not started,Not Started,2024-04-01 00:00:00.000,108.0,Urgent Medical Needs,No,Medical Intake
+High,Assignement Tracker,Not started,Not Started,2024-04-01 00:00:00.000,108.0,Urgent Medical Needs,Yes,Medical Intake
+High,Assignement Tracker,Not started,Not Started,2024-04-01 00:00:00.000,108.0,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-01 00:00:00.000,108.0,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-01 00:00:00.000,108.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-01 00:00:00.000,107.0,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-01 00:00:00.000,107.0,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-01 00:00:00.000,107.0,Medical Follow-Up,No,Medical Intake
+Not specified,Assignement Tracker,Not started,Not Started,2024-04-02 00:00:00.000,77.0,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-02 00:00:00.000,77.0,Urgent Medical Needs,No,Medical Intake
+High,Assignement Tracker,Verifed,In Progress,2024-02-28 00:00:00.000,53.0,Urgent Medical Needs,No,Medical Intake
+High,Assignement Tracker,Not started,Not Started,2024-04-03 00:00:00.000,48.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-03 00:00:00.000,48.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-03 00:00:00.000,48.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-03 00:00:00.000,47.0,Urgent Medical Needs,Yes,Medical Intake
+High,Assignement Tracker,Verifed,Not Started,2024-03-21 00:00:00.000,31.0,Medical Follow-Up,Yes,Medical Intake
+Not specified,Assignement Tracker,Verifed,In Progress,2024-03-22 00:00:00.000,30.0,Urgent Medical Needs,No,Medical Intake
+High,Assignement Tracker,Verifed,Not Started,2024-03-23 00:00:00.000,29.0,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-26 00:00:00.000,26.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-26 00:00:00.000,26.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-26 00:00:00.000,26.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-27 00:00:00.000,25.0,Urgent Medical Needs,Yes,Medical Intake
+High,Assignement Tracker,Not started,Not specified,2024-03-29 00:00:00.000,23.0,Medical Follow-Up,No,Medical Intake
+High,Assignement Tracker,Not started,Not specified,2024-03-30 00:00:00.000,22.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-30 00:00:00.000,22.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-30 00:00:00.000,22.0,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-30 00:00:00.000,22.0,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-31 00:00:00.000,21.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-31 00:00:00.000,21.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-31 00:00:00.000,21.0,Medical Follow-Up,Yes,Medical Intake
+High,Assignement Tracker,Verifed,Not Started,2024-03-04 00:00:00.000,18.0,Urgent Medical Needs,No,Medical Intake
+High,Assignement Tracker,Not started,Not Started,2024-04-04 00:00:00.000,17.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Assignement Tracker,Verifed,Not Started,2024-04-04 00:00:00.000,17.0,Urgent Medical Needs,Yes,Medical Intake
+High,Assignement Tracker,Verifed,Not Started,2024-04-04 00:00:00.000,17.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-04 00:00:00.000,16.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-04 00:00:00.000,16.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-04 00:00:00.000,16.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-04 00:00:00.000,16.0,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-04 00:00:00.000,16.0,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-04 00:00:00.000,16.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-04 00:00:00.000,16.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-06-04 00:00:00.000,15.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-06-04 00:00:00.000,15.0,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-06-04 00:00:00.000,15.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-04 00:00:00.000,14.0,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-04 00:00:00.000,14.0,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-04 00:00:00.000,14.0,Urgent Medical Needs,Yes,Medical Intake
+High,Assignement Tracker,Not started,Not specified,2024-08-04 00:00:00.000,13.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-08-04 00:00:00.000,13.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-08-04 00:00:00.000,13.0,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-08-04 00:00:00.000,13.0,Urgent Medical Needs,Yes,Medical Intake
+High,Assignement Tracker,Not started,Not specified,2024-09-04 00:00:00.000,12.0,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-09-04 00:00:00.000,12.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-09-04 00:00:00.000,12.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-09-04 00:00:00.000,12.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-10-04 00:00:00.000,11.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-10-04 00:00:00.000,11.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-10-04 00:00:00.000,11.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-10-04 00:00:00.000,11.0,Urgent Medical Needs,No,Medical Intake
+High,Assignement Tracker,Verifed,Not Started,2024-11-04 00:00:00.000,10.0,Urgent Medical Needs,No,Medical Intake
+High,Assignement Tracker,Verifed,Not Started,2024-11-04 00:00:00.000,10.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-11-04 00:00:00.000,9.0,Urgent Medical Needs,Yes,Medical Intake
+High,Assignement Tracker,Verifed,Not Started,2024-12-04 00:00:00.000,9.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-12-04 00:00:00.000,9.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-12-04 00:00:00.000,8.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-13 00:00:00.000,8.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-13 00:00:00.000,8.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-13 00:00:00.000,7.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-13 00:00:00.000,7.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-14 00:00:00.000,7.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-14 00:00:00.000,7.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-14 00:00:00.000,7.0,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-14 00:00:00.000,6.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-15 00:00:00.000,6.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-15 00:00:00.000,6.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-15 00:00:00.000,6.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-15 00:00:00.000,6.0,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-15 00:00:00.000,5.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-15 00:00:00.000,5.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-16 00:00:00.000,4.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-16 00:00:00.000,4.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-17 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-17 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-17 00:00:00.000,3.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-17 00:00:00.000,3.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-18 00:00:00.000,3.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-18 00:00:00.000,3.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-18 00:00:00.000,3.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-18 00:00:00.000,3.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-18 00:00:00.000,3.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-18 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-18 00:00:00.000,2.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-19 00:00:00.000,2.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-19 00:00:00.000,2.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-19 00:00:00.000,2.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-19 00:00:00.000,1.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-19 00:00:00.000,1.0,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-19 00:00:00.000,1.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-19 00:00:00.000,6.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-20 00:00:00.000,6.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-18 00:00:00.000,8.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-18 00:00:00.000,8.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-19 00:00:00.000,7.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-19 00:00:00.000,7.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-19 00:00:00.000,7.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-19 00:00:00.000,7.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-19 00:00:00.000,7.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-19 00:00:00.000,6.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-19 00:00:00.000,6.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-19 00:00:00.000,6.0,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-19 00:00:00.000,6.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-20 00:00:00.000,6.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-20 00:00:00.000,6.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-20 00:00:00.000,6.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-20 00:00:00.000,6.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-20 00:00:00.000,6.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-20 00:00:00.000,6.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-20 00:00:00.000,6.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-20 00:00:00.000,5.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-25 00:00:00.000,1.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-20 00:00:00.000,5.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-21 00:00:00.000,5.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-21 00:00:00.000,5.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-21 00:00:00.000,5.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,4.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,4.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,3.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,3.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-22 00:00:00.000,3.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-23 00:00:00.000,3.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-23 00:00:00.000,3.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-23 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-23 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-23 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-23 00:00:00.000,2.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-23 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,2.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,1.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,1.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,1.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,1.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,1.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-24 00:00:00.000,1.0,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-25 00:00:00.000,1.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-25 00:00:00.000,1.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-25 00:00:00.000,1.0,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-01-06 00:00:00.000,,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-02-06 00:00:00.000,,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-02-06 00:00:00.000,,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-02-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-02-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-02-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-02-06 00:00:00.000,,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-02-06 00:00:00.000,,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-02-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-06 00:00:00.000,,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-03-06 00:00:00.000,,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-06 00:00:00.000,,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-06 00:00:00.000,,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-06 00:00:00.000,,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-06 00:00:00.000,,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-06 00:00:00.000,,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-04-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-06 00:00:00.000,,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-05-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-06-06 00:00:00.000,,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-06-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-06-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-06-06 00:00:00.000,,Urgent Medical Needs,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-06-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-06-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-06-06 00:00:00.000,,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-06-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-06 00:00:00.000,,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-07-06 00:00:00.000,,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-08-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-09-06 00:00:00.000,,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-09-06 00:00:00.000,,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-09-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-10-06 00:00:00.000,,Medical Follow-Up,No,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-10-06 00:00:00.000,,Medical Follow-Up,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-11-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-11-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-12-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-12-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-12-06 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+Not specified,Form Intake,Not specified,Not specified,2024-06-13 00:00:00.000,,Urgent Medical Needs,Yes,Medical Intake
+High,Master File,Verifed,Not specified,2024-01-04 00:00:00.000,108.0,Urgent Medical Service,No,Urgent Medical Service
+High,Master File,Not started,Not Started,2024-01-04 00:00:00.000,108.0,Medical,No,Urgent Medical Service
+Not specified,Master File,Not started,Not Started,2024-01-04 00:00:00.000,108.0,Medical,No,Urgent Medical Service
+High,Master File,Not started,Not Started,2024-01-04 00:00:00.000,108.0,Urgent Medical Service,Yes,Urgent Medical Service
+High,Master File,Not started,Not Started,2024-01-04 00:00:00.000,108.0,Medical,No,Urgent Medical Service
+High,Master File,Not started,Not Started,2024-01-04 00:00:00.000,108.0,Urgent Medical Service,No,Urgent Medical Service
+High,Master File,Not started,Not Started,2024-01-04 00:00:00.000,108.0,Urgent Medical Service,No,Urgent Medical Service
+High,Master File,Not started,Not Started,2024-01-04 00:00:00.000,108.0,Urgent Medical Service,Yes,Urgent Medical Service
+Not specified,Master File,Not started,Not Started,2024-01-04 00:00:00.000,108.0,Urgent Medical Service,No,Urgent Medical Service
+High,Master File,Not started,Not Started,2024-01-04 00:00:00.000,108.0,Urgent Medical Service,Yes,Urgent Medical Service
+High,Master File,Not started,Not Started,2024-01-04 00:00:00.000,108.0,Medical,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-01-04 06:51:54.000,108.0,Medical,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-01-04 11:26:29.000,108.0,Urgent Medical Service,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-01-04 14:52:58.000,107.0,Medical,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-01-04 16:05:42.000,107.0,Medical,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-01-04 17:33:59.000,107.0,Medical,No,Urgent Medical Service
+Not specified,Master File,Not started,Not Started,2024-02-04 00:00:00.000,77.0,Medical,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-02-04 07:20:18.000,77.0,Urgent Medical Service,No,Urgent Medical Service
+High,Master File,Verifed,In Progress,2024-02-28 00:00:00.000,53.0,Urgent Medical Service,No,Urgent Medical Service
+High,Master File,Not started,Not Started,2024-03-04 00:00:00.000,48.0,Urgent Medical Service,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-03-04 03:23:24.000,48.0,Urgent Medical Service,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-03-04 07:03:26.000,48.0,Urgent Medical Service,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-03-04 19:23:21.000,47.0,Urgent Medical Service,Yes,Urgent Medical Service
+High,Master File,Verifed,Not Started,2024-03-21 00:00:00.000,31.0,Medical,Yes,Urgent Medical Service
+Not specified,Master File,Verifed,In Progress,2024-03-22 00:00:00.000,30.0,Urgent Medical Service,No,Urgent Medical Service
+High,Master File,Verifed,Not Started,2024-03-23 00:00:00.000,29.0,Medical,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-03-26 00:00:00.000,26.0,Urgent Medical Service,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-03-26 00:00:00.000,26.0,Urgent Medical Service,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-03-26 00:00:00.000,26.0,Urgent Medical Service,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-03-27 00:00:00.000,25.0,Urgent Medical Service,Yes,Urgent Medical Service
+High,Master File,Not started,Not specified,2024-03-29 00:00:00.000,23.0,Medical,No,Urgent Medical Service
+High,Master File,Not started,Not specified,2024-03-30 00:00:00.000,22.0,Urgent Medical Service,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-03-30 00:00:00.000,22.0,Urgent Medical Service,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-03-30 00:00:00.000,22.0,Medical,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-03-30 00:00:00.000,22.0,Medical,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-03-31 00:00:00.000,21.0,Urgent Medical Service,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-03-31 00:00:00.000,21.0,Urgent Medical Service,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-03-31 00:00:00.000,21.0,Medical,Yes,Urgent Medical Service
+High,Master File,Verifed,Not Started,2024-04-03 00:00:00.000,18.0,Urgent Medical Service,No,Urgent Medical Service
+High,Master File,Not started,Not Started,2024-04-04 00:00:00.000,17.0,Urgent Medical Service,Yes,Urgent Medical Service
+Not specified,Master File,Verifed,Not Started,2024-04-04 00:00:00.000,17.0,Urgent Medical Service,Yes,Urgent Medical Service
+High,Master File,Verifed,Not Started,2024-04-04 00:00:00.000,17.0,Urgent Medical Service,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-04 12:46:37.000,16.0,Urgent Medical Service,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-04 21:09:22.000,16.0,Urgent Medical Service,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-04 21:23:15.000,16.0,Urgent Medical Service,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-05 00:00:00.000,16.0,Medical,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-05 00:00:00.000,16.0,Medical,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-05 00:00:00.000,16.0,Urgent Medical Service,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-05 00:00:00.000,16.0,Urgent Medical Service,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-06 00:00:00.000,15.0,Urgent Medical Service,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-06 00:00:00.000,15.0,Medical,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-06 00:00:00.000,15.0,Urgent Medical Service,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-07 00:00:00.000,14.0,Medical,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-07 00:00:00.000,14.0,Medical,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-07 00:00:00.000,14.0,Urgent Medical Service,Yes,Urgent Medical Service
+High,Master File,Not started,Not specified,2024-04-08 00:00:00.000,13.0,Urgent Medical Service,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-08 00:00:00.000,13.0,Urgent Medical Service,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-08 00:00:00.000,13.0,Medical,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-08 00:00:00.000,13.0,Urgent Medical Service,Yes,Urgent Medical Service
+High,Master File,Not started,Not specified,2024-04-09 00:00:00.000,12.0,Medical,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-09 00:00:00.000,12.0,Urgent Medical Service,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-09 00:00:00.000,12.0,Urgent Medical Service,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-09 00:00:00.000,12.0,Urgent Medical Service,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-10 00:00:00.000,11.0,Urgent Medical Service,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-10 00:00:00.000,11.0,Urgent Medical Service,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-10 00:00:00.000,11.0,Urgent Medical Service,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-10 00:00:00.000,11.0,Urgent Medical Service,No,Urgent Medical Service
+High,Master File,Verifed,Not Started,2024-04-11 00:00:00.000,10.0,Urgent Medical Service,No,Urgent Medical Service
+High,Master File,Verifed,Not Started,2024-04-11 00:00:00.000,10.0,Urgent Medical Service,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-11 20:45:15.641,9.0,Urgent Medical Needs,Yes,Urgent Medical Service
+High,Master File,Verifed,Not Started,2024-04-12 00:00:00.000,9.0,Urgent Medical Service,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-12 04:50:26.405,9.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-12 21:26:53.712,8.0,Urgent Medical Needs,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-13 02:38:07.551,8.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-13 05:50:45.112,8.0,Urgent Medical Needs,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-13 12:17:32.396,7.0,Urgent Medical Needs,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-13 21:55:31.118,7.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-14 04:15:35.791,7.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-14 04:17:15.055,7.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-14 04:20:24.728,7.0,Medical,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-14 19:53:49.429,6.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-15 05:11:38.345,6.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-15 09:54:31.371,6.0,Urgent Medical Needs,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-15 11:12:24.424,6.0,Urgent Medical Needs,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-15 11:54:45.708,6.0,Medical,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-15 13:25:07.728,5.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-15 21:12:06.089,5.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-16 14:25:29.782,4.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-16 23:14:25.202,4.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-17 04:24:16.093,4.0,Urgent Medical Needs,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-17 10:32:48.932,4.0,Urgent Medical Needs,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-17 14:24:22.059,3.0,Urgent Medical Needs,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-17 15:12:18.856,3.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-18 02:18:58.569,3.0,Urgent Medical Needs,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-18 04:54:55.811,3.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-18 06:33:11.833,3.0,Urgent Medical Needs,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-18 08:54:57.576,3.0,Urgent Medical Needs,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-18 11:17:34.483,3.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-18 14:41:38.443,2.0,Urgent Medical Needs,Yes,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-18 14:50:48.284,2.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-19 03:51:27.155,2.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-19 03:55:48.870,2.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-19 05:44:31.744,2.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-19 18:59:59.842,1.0,Urgent Medical Needs,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-19 19:37:23.882,1.0,Medical,No,Urgent Medical Service
+Not specified,Form Intake,Not specified,Not specified,2024-04-19 19:50:22.039,1.0,Urgent Medical Needs,No,Urgent Medical Service

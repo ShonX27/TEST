@@ -1,0 +1,56 @@
+Date,Program,Category,Amount_CAD,Payment_Channel,Card_Type,Status,Location
+2024-05-16,Donations,Medical Supplies & Food Aid Fund,5.0,apple_pay,visa,paid,Gaza
+2024-05-16,Donations,Medical Supplies,8.0,apple_pay,visa,paid,Gaza
+2024-05-16,Donations,Medical Supplies,104.54,apple_pay,visa,paid,Gaza
+2024-05-27,Donations,Medical Supplies,10.0,stripe,visa,paid,Gaza
+2024-05-28,Donations,Babies’ Medical Supplies: Support Drs. M & M,20.0,stripe,visa,paid,Gaza
+2024-06-06,Donations,Babies’ Medical Supplies: Support Drs. M & M,70.16,stripe,mastercard,paid,Gaza
+2024-06-07,Donations,Medical Supplies & Food Aid Fund,3.0,stripe,visa,paid,Gaza
+2024-06-12,Donations,Medical Supplies & Food Aid Fund,15.0,apple_pay,visa,paid,Gaza
+2024-06-16,Donations,Medical Supplies & Food Aid Fund,3.0,stripe,mastercard,paid,Gaza
+2024-06-17,Donations,Babies’ Medical Supplies: Support Drs. M & M,35.52,apple_pay,visa,paid,Gaza
+2024-07-07,Donations,Honor Their Roots (Palestinian Children),20.0,apple_pay,visa,paid,Gaza
+2024-07-07,Donations,"Emergency Fund -  Nuseirat Camp -  Oct. 6, 2024.",25.0,apple_pay,visa,paid,Gaza
+2024-07-07,Donations,"Emergency Fund -  Nuseirat Camp -  Oct. 6, 2024.",10.0,stripe,visa,paid,Gaza
+2024-07-07,Donations,"Emergency Fund -  Nuseirat Camp -  Oct. 6, 2024.",10.0,apple_pay,visa,paid,Gaza
+2024-07-09,Donations,"Emergency Fund -  Nuseirat Camp -  Oct. 6, 2024.",20.0,stripe,visa,paid,Gaza
+2024-08-07,Donations,Honor Their Roots (Palestinian Children),20.0,apple_pay,visa,paid,Gaza
+2024-09-07,Donations,Honor Their Roots (Palestinian Children),20.0,apple_pay,visa,paid,Gaza
+2024-10-07,Donations,Honor Their Roots (Palestinian Children),20.0,apple_pay,visa,paid,Gaza
+2024-10-16,Donations,Orange Blossom Alliance Emergency Fund,166.73,paypal_express,N/A,paid,Gaza
+2024-11-07,Donations,Honor Their Roots (Palestinian Children),100.0,stripe,mastercard,paid,Gaza
+2024-12-07,Donations,Honor Their Roots (Palestinian Children),100.0,stripe,mastercard,paid,Gaza
+2024-12-14,Donations,Orange Blossom Alliance Emergency Fund,30.7,paypal_express,N/A,paid,Gaza
+2024-12-16,Donations,Orange Blossom Alliance Emergency Fund,20.23,paypal_express,N/A,paid,Gaza
+2024-12-18,Donations,Orange Blossom Alliance Emergency Fund,15.04,paypal_express,N/A,paid,Gaza
+2024-12-20,Donations,Orange Blossom Alliance Emergency Fund,4.0,apple_pay,visa,paid,Gaza
+2025-01-06,Donations,Orange Blossom Alliance Emergency Fund,697.48,paypal_express,N/A,paid,Gaza
+2025-01-07,Donations,Orange Blossom Alliance Emergency Fund,40.99,paypal_express,N/A,paid,Gaza
+2025-01-09,Donations,Orange Blossom Alliance Emergency Fund,29.82,apple_pay,amex,paid,Gaza
+2025-01-14,Donations,Orange Blossom Alliance Emergency Fund,20.0,apple_pay,mastercard,paid,Gaza
+2025-01-26,Donations,Orange Blossom Alliance Emergency Fund,42.09,link,visa,paid,Gaza
+2025-01-26,Donations,Orange Blossom Alliance Emergency Fund,300.0,stripe,visa,paid,Gaza
+2025-01-26,Donations,Orange Blossom Alliance Emergency Fund,104.56,stripe,mastercard,paid,Gaza
+2025-01-26,Donations,Orange Blossom Alliance Emergency Fund,312.79,stripe,visa,paid,Gaza
+2025-01-29,Donations,Orange Blossom Alliance Emergency Fund,29.82,apple_pay,visa,paid,Gaza
+2025-02-02,Donations,Orange Blossom Alliance Emergency Fund,5000.0,stripe,visa,paid,Gaza
+2025-03-04,Donations,Orange Blossom Alliance Emergency Fund,21.27,apple_pay,visa,paid,Gaza
+2025-03-05,Donations,Orange Blossom Alliance Emergency Fund,37.06,link,mastercard,paid,Gaza
+2025-03-07,Donations,Orange Blossom Alliance Emergency Fund,73.83,apple_pay,mastercard,paid,Gaza
+2025-03-12,Donations,Orange Blossom Alliance Emergency Fund,294.55,link,amex,paid,Gaza
+2025-03-28,Donations,Orange Blossom Alliance Emergency Fund,175.76,link,visa,paid,Gaza
+2025-04-03,Donations,Orange Blossom Alliance Emergency Fund,14.8,stripe,visa,paid,Gaza
+2025-05-07,Donations,Orange Blossom Alliance Emergency Fund,58.88,stripe,mastercard,paid,Gaza
+2025-06-07,Donations,Orange Blossom Alliance Emergency Fund,58.88,stripe,mastercard,paid,Gaza
+2025-07-07,Donations,Orange Blossom Alliance Emergency Fund,58.88,stripe,mastercard,paid,Gaza
+2025-08-07,Donations,Orange Blossom Alliance Emergency Fund,58.88,stripe,mastercard,paid,Gaza
+2025-09-07,Donations,Orange Blossom Alliance Emergency Fund,58.88,stripe,mastercard,paid,Gaza
+2025-09-14,Donations,Orange Blossom Alliance Emergency Fund,1416.82,stripe,visa,paid,Gaza
+2025-10-07,Donations,Orange Blossom Alliance Emergency Fund,58.88,stripe,mastercard,paid,Gaza
+2025-11-07,Donations,Orange Blossom Alliance Emergency Fund,58.88,stripe,mastercard,paid,Gaza
+2025-12-07,Donations,Orange Blossom Alliance Emergency Fund,58.88,stripe,mastercard,paid,Gaza
+2026-01-07,Donations,Orange Blossom Alliance Emergency Fund,58.88,stripe,mastercard,paid,Gaza
+2026-03-10,Donations,Orange Blossom Alliance Emergency Fund,14.97,apple_pay,visa,paid,Gaza
+2026-07-28,Donations,Water is Life - Gaza Is Thirsty ,144.77,link,visa,paid,Gaza
+2026-07-28,Donations,Water is Life - Gaza Is Thirsty ,74.15,paypal_express,N/A,paid,Gaza
+2026-07-28,Donations,Water is Life - Gaza Is Thirsty ,27.65,apple_pay,visa,paid,Gaza

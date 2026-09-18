@@ -1,0 +1,86 @@
+Date,Program,Location,Category,Priority,Status,Aging_Days,Service_Req,Family_With_Children
+2024-05-15,Health,Gaza,Urgent Medical Service,High,Referred,5,Emergency Surgery,No
+2024-05-24,Health,Syria,Medical Intake,Urgent,Pending,5,Mental Health Support,Yes
+2024-06-03,Health,Lebanon,Medical Intake,High,Ongoing,2,Trauma Care,Yes
+2024-06-12,Health,Gaza,Telemedicine Triage,Urgent,Referred,4,Mental Health Support,Yes
+2024-06-22,Health,Gaza,Medical Intake,High,Resolved,4,Trauma Care,Yes
+2024-07-01,Health,Gaza,Urgent Medical Service,Urgent,Referred,7,Trauma Care,Yes
+2024-07-11,Health,Gaza,Medical Intake,High,Pending,8,Emergency Surgery,Yes
+2024-07-20,Health,Lebanon,Telemedicine Triage,High,Resolved,1,Chronic Medication,Yes
+2024-07-30,Health,Gaza,Medical Intake,Low,Referred,4,Pediatric Care,Yes
+2024-08-08,Health,Lebanon,Telemedicine Triage,Urgent,Reviewed,7,Emergency Surgery,Yes
+2024-08-18,Health,Gaza,Medical Intake,High,Ongoing,5,Emergency Surgery,Yes
+2024-08-27,Health,Syria,Medical Intake,Urgent,Ongoing,14,Chronic Medication,Yes
+2024-09-06,Health,Lebanon,Medical Intake,Low,Ongoing,8,Pediatric Care,Yes
+2024-09-15,Health,Gaza,Urgent Medical Service,Medium,Resolved,2,Mental Health Support,Yes
+2024-09-25,Health,Gaza,Urgent Medical Service,Urgent,Resolved,1,Mental Health Support,Yes
+2024-10-05,Health,Gaza,Urgent Medical Service,High,Reviewed,8,Emergency Surgery,Yes
+2024-10-14,Health,Gaza,Medical Intake,Medium,Reviewed,1,Pediatric Care,Yes
+2024-10-24,Health,Gaza,Urgent Medical Service,High,Reviewed,7,Emergency Surgery,Yes
+2024-11-02,Health,Gaza,Medical Intake,High,Reviewed,20,Trauma Care,Yes
+2024-11-12,Health,Gaza,Telemedicine Triage,Urgent,Referred,6,Emergency Surgery,Yes
+2024-11-21,Health,Gaza,Urgent Medical Service,Urgent,Referred,4,Emergency Surgery,No
+2024-12-01,Health,Gaza,Medical Intake,Medium,Ongoing,8,Mental Health Support,Yes
+2024-12-10,Health,Gaza,Telemedicine Triage,Low,Referred,5,Mental Health Support,Yes
+2024-12-20,Health,Gaza,Urgent Medical Service,High,Ongoing,6,Mental Health Support,No
+2024-12-29,Health,Gaza,Urgent Medical Service,High,Ongoing,20,Trauma Care,Yes
+2025-01-08,Health,Lebanon,Urgent Medical Service,High,Reviewed,4,Mental Health Support,No
+2025-01-17,Health,Gaza,Urgent Medical Service,Medium,Resolved,23,Pediatric Care,Yes
+2025-01-27,Health,Gaza,Telemedicine Triage,Medium,Resolved,17,Chronic Medication,Yes
+2025-02-06,Health,Gaza,Telemedicine Triage,Medium,Resolved,2,Pediatric Care,Yes
+2025-02-15,Health,Gaza,Medical Intake,Medium,Referred,1,Pediatric Care,No
+2025-02-25,Health,Gaza,Telemedicine Triage,High,Resolved,1,Mental Health Support,Yes
+2025-03-06,Health,Gaza,Telemedicine Triage,Urgent,Referred,1,Chronic Medication,No
+2025-03-16,Health,Gaza,Urgent Medical Service,Urgent,Referred,1,Chronic Medication,Yes
+2025-03-25,Health,Syria,Telemedicine Triage,Medium,Resolved,9,Chronic Medication,No
+2025-04-04,Health,Syria,Medical Intake,High,Referred,1,Trauma Care,Yes
+2025-04-13,Health,Lebanon,Telemedicine Triage,Urgent,Resolved,3,Mental Health Support,No
+2025-04-23,Health,Gaza,Telemedicine Triage,Urgent,Resolved,14,Chronic Medication,Yes
+2025-05-02,Health,Gaza,Urgent Medical Service,High,Reviewed,1,Trauma Care,Yes
+2025-05-12,Health,Lebanon,Urgent Medical Service,Urgent,Resolved,12,Emergency Surgery,Yes
+2025-05-21,Health,Gaza,Urgent Medical Service,Urgent,Resolved,3,Emergency Surgery,Yes
+2025-05-31,Health,Gaza,Medical Intake,High,Referred,1,Trauma Care,Yes
+2025-06-09,Health,Gaza,Telemedicine Triage,High,Ongoing,9,Trauma Care,Yes
+2025-06-19,Health,Gaza,Telemedicine Triage,High,Resolved,7,Mental Health Support,Yes
+2025-06-29,Health,Syria,Urgent Medical Service,Urgent,Referred,15,Mental Health Support,Yes
+2025-07-08,Health,Gaza,Medical Intake,Medium,Resolved,10,Emergency Surgery,No
+2025-07-18,Health,Lebanon,Medical Intake,Urgent,Resolved,12,Chronic Medication,No
+2025-07-27,Health,Gaza,Urgent Medical Service,High,Referred,3,Emergency Surgery,Yes
+2025-08-06,Health,Gaza,Urgent Medical Service,Medium,Referred,2,Chronic Medication,No
+2025-08-15,Health,Gaza,Urgent Medical Service,High,Referred,10,Chronic Medication,No
+2025-08-25,Health,Gaza,Telemedicine Triage,Medium,Ongoing,12,Mental Health Support,Yes
+2025-09-03,Health,Syria,Urgent Medical Service,High,Pending,33,Pediatric Care,Yes
+2025-09-13,Health,Lebanon,Medical Intake,High,Referred,4,Pediatric Care,Yes
+2025-09-22,Health,Syria,Medical Intake,Urgent,Resolved,4,Trauma Care,Yes
+2025-10-02,Health,Lebanon,Urgent Medical Service,High,Ongoing,11,Mental Health Support,Yes
+2025-10-11,Health,Gaza,Telemedicine Triage,Urgent,Resolved,3,Chronic Medication,Yes
+2025-10-21,Health,Syria,Telemedicine Triage,Urgent,Resolved,19,Pediatric Care,No
+2025-10-31,Health,Gaza,Urgent Medical Service,Low,Resolved,14,Chronic Medication,No
+2025-11-09,Health,Gaza,Medical Intake,High,Resolved,4,Pediatric Care,Yes
+2025-11-19,Health,Gaza,Urgent Medical Service,Medium,Pending,10,Pediatric Care,Yes
+2025-11-28,Health,Gaza,Urgent Medical Service,High,Reviewed,10,Pediatric Care,Yes
+2025-12-08,Health,Gaza,Urgent Medical Service,Medium,Ongoing,1,Mental Health Support,Yes
+2025-12-17,Health,Gaza,Medical Intake,High,Resolved,17,Emergency Surgery,Yes
+2025-12-27,Health,Lebanon,Medical Intake,High,Resolved,5,Chronic Medication,No
+2026-01-05,Health,Gaza,Urgent Medical Service,High,Resolved,13,Mental Health Support,Yes
+2026-01-15,Health,Gaza,Urgent Medical Service,Urgent,Resolved,3,Mental Health Support,No
+2026-01-24,Health,Gaza,Telemedicine Triage,Medium,Referred,16,Mental Health Support,No
+2026-02-03,Health,Gaza,Urgent Medical Service,Urgent,Ongoing,4,Mental Health Support,Yes
+2026-02-12,Health,Lebanon,Urgent Medical Service,Urgent,Ongoing,1,Mental Health Support,No
+2026-02-22,Health,Gaza,Medical Intake,High,Resolved,17,Trauma Care,Yes
+2026-03-03,Health,Syria,Telemedicine Triage,Urgent,Pending,1,Chronic Medication,Yes
+2026-03-13,Health,Lebanon,Urgent Medical Service,Low,Ongoing,3,Mental Health Support,Yes
+2026-03-23,Health,Gaza,Medical Intake,Low,Referred,21,Chronic Medication,No
+2026-04-01,Health,Gaza,Telemedicine Triage,Low,Referred,22,Trauma Care,Yes
+2026-04-11,Health,Lebanon,Urgent Medical Service,High,Resolved,6,Trauma Care,No
+2026-04-20,Health,Lebanon,Medical Intake,Urgent,Resolved,7,Chronic Medication,No
+2026-04-30,Health,Lebanon,Urgent Medical Service,Low,Resolved,5,Pediatric Care,Yes
+2026-05-09,Health,Lebanon,Medical Intake,High,Ongoing,3,Emergency Surgery,No
+2026-05-19,Health,Gaza,Medical Intake,Low,Resolved,3,Pediatric Care,Yes
+2026-05-28,Health,Gaza,Medical Intake,Low,Resolved,8,Pediatric Care,Yes
+2026-06-07,Health,Gaza,Urgent Medical Service,Medium,Resolved,10,Pediatric Care,Yes
+2026-06-16,Health,Lebanon,Telemedicine Triage,Urgent,Resolved,11,Mental Health Support,Yes
+2026-06-26,Health,Gaza,Urgent Medical Service,High,Reviewed,11,Trauma Care,No
+2026-07-05,Health,Gaza,Urgent Medical Service,Medium,Ongoing,1,Pediatric Care,Yes
+2026-07-15,Health,Gaza,Urgent Medical Service,High,Referred,5,Trauma Care,Yes
+2026-07-25,Health,Gaza,Medical Intake,Urgent,Resolved,1,Chronic Medication,No
